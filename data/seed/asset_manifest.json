@@ -1,0 +1,8035 @@
+{
+  "version": "1.0.0",
+  "asset_policy": "original_procedural_svg_with_source_ref",
+  "characters_count": 429,
+  "forms_count": 1139,
+  "skills_count": 149,
+  "characters": {
+    "0": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_000_f0",
+          "original_ref": "sp/0_0.webp"
+        },
+        "1": {
+          "asset_key": "char_000_f1",
+          "original_ref": "sp/0_1.webp"
+        }
+      }
+    },
+    "1": {
+      "element": "fire",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_001_f0",
+          "original_ref": "sp/1_0.webp"
+        },
+        "1": {
+          "asset_key": "char_001_f1",
+          "original_ref": "sp/1_1.webp"
+        },
+        "2": {
+          "asset_key": "char_001_f2",
+          "original_ref": "sp/1_2.webp"
+        }
+      }
+    },
+    "2": {
+      "element": "fire",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_002_f0",
+          "original_ref": "sp/2_0.webp"
+        },
+        "1": {
+          "asset_key": "char_002_f1",
+          "original_ref": "sp/2_1.webp"
+        },
+        "2": {
+          "asset_key": "char_002_f2",
+          "original_ref": "sp/2_2.webp"
+        }
+      }
+    },
+    "3": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_003_f0",
+          "original_ref": "sp/3_0.webp"
+        },
+        "1": {
+          "asset_key": "char_003_f1",
+          "original_ref": "sp/3_1.webp"
+        },
+        "2": {
+          "asset_key": "char_003_f2",
+          "original_ref": "sp/3_2.webp"
+        }
+      }
+    },
+    "4": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_004_f0",
+          "original_ref": "sp/4_0.webp"
+        },
+        "1": {
+          "asset_key": "char_004_f1",
+          "original_ref": "sp/4_1.webp"
+        },
+        "2": {
+          "asset_key": "char_004_f2",
+          "original_ref": "sp/4_2.webp"
+        }
+      }
+    },
+    "5": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_005_f0",
+          "original_ref": "sp/5_0.webp"
+        },
+        "1": {
+          "asset_key": "char_005_f1",
+          "original_ref": "sp/5_1.webp"
+        },
+        "2": {
+          "asset_key": "char_005_f2",
+          "original_ref": "sp/5_2.webp"
+        }
+      }
+    },
+    "6": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_006_f0",
+          "original_ref": "sp/6_0.webp"
+        },
+        "1": {
+          "asset_key": "char_006_f1",
+          "original_ref": "sp/6_1.webp"
+        },
+        "2": {
+          "asset_key": "char_006_f2",
+          "original_ref": "sp/6_2.webp"
+        }
+      }
+    },
+    "7": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_007_f0",
+          "original_ref": "sp/7_0.webp"
+        },
+        "1": {
+          "asset_key": "char_007_f1",
+          "original_ref": "sp/7_1.webp"
+        },
+        "2": {
+          "asset_key": "char_007_f2",
+          "original_ref": "sp/7_2.webp"
+        }
+      }
+    },
+    "8": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_008_f0",
+          "original_ref": "sp/8_0.webp"
+        },
+        "1": {
+          "asset_key": "char_008_f1",
+          "original_ref": "sp/8_1.webp"
+        },
+        "2": {
+          "asset_key": "char_008_f2",
+          "original_ref": "sp/8_2.webp"
+        }
+      }
+    },
+    "9": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_009_f0",
+          "original_ref": "sp/9_0.webp"
+        },
+        "1": {
+          "asset_key": "char_009_f1",
+          "original_ref": "sp/9_1.webp"
+        },
+        "2": {
+          "asset_key": "char_009_f2",
+          "original_ref": "sp/9_2.webp"
+        }
+      }
+    },
+    "10": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_010_f0",
+          "original_ref": "sp/10_0.webp"
+        },
+        "1": {
+          "asset_key": "char_010_f1",
+          "original_ref": "sp/10_1.webp"
+        },
+        "2": {
+          "asset_key": "char_010_f2",
+          "original_ref": "sp/10_2.webp"
+        }
+      }
+    },
+    "11": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_011_f0",
+          "original_ref": "sp/11_0.webp"
+        },
+        "1": {
+          "asset_key": "char_011_f1",
+          "original_ref": "sp/11_1.webp"
+        },
+        "2": {
+          "asset_key": "char_011_f2",
+          "original_ref": "sp/11_2.webp"
+        }
+      }
+    },
+    "12": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_012_f0",
+          "original_ref": "sp/12_0.webp"
+        },
+        "1": {
+          "asset_key": "char_012_f1",
+          "original_ref": "sp/12_1.webp"
+        },
+        "2": {
+          "asset_key": "char_012_f2",
+          "original_ref": "sp/12_2.webp"
+        }
+      }
+    },
+    "13": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_013_f0",
+          "original_ref": "sp/13_0.webp"
+        },
+        "1": {
+          "asset_key": "char_013_f1",
+          "original_ref": "sp/13_1.webp"
+        }
+      }
+    },
+    "14": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_014_f0",
+          "original_ref": "sp/14_0.webp"
+        },
+        "1": {
+          "asset_key": "char_014_f1",
+          "original_ref": "sp/14_1.webp"
+        },
+        "2": {
+          "asset_key": "char_014_f2",
+          "original_ref": "sp/14_2.webp"
+        }
+      }
+    },
+    "15": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_015_f0",
+          "original_ref": "sp/15_0.webp"
+        },
+        "1": {
+          "asset_key": "char_015_f1",
+          "original_ref": "sp/15_1.webp"
+        },
+        "2": {
+          "asset_key": "char_015_f2",
+          "original_ref": "sp/15_2.webp"
+        }
+      }
+    },
+    "16": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_016_f0",
+          "original_ref": "sp/16_0.webp"
+        },
+        "1": {
+          "asset_key": "char_016_f1",
+          "original_ref": "sp/16_1.webp"
+        },
+        "2": {
+          "asset_key": "char_016_f2",
+          "original_ref": "sp/16_2.webp"
+        }
+      }
+    },
+    "17": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_017_f0",
+          "original_ref": "sp/17_0.webp"
+        },
+        "1": {
+          "asset_key": "char_017_f1",
+          "original_ref": "sp/17_1.webp"
+        },
+        "2": {
+          "asset_key": "char_017_f2",
+          "original_ref": "sp/17_2.webp"
+        }
+      }
+    },
+    "18": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_018_f0",
+          "original_ref": "sp/18_0.webp"
+        },
+        "1": {
+          "asset_key": "char_018_f1",
+          "original_ref": "sp/18_1.webp"
+        },
+        "2": {
+          "asset_key": "char_018_f2",
+          "original_ref": "sp/18_2.webp"
+        }
+      }
+    },
+    "19": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_019_f0",
+          "original_ref": "sp/19_0.webp"
+        },
+        "1": {
+          "asset_key": "char_019_f1",
+          "original_ref": "sp/19_1.webp"
+        }
+      }
+    },
+    "20": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_020_f0",
+          "original_ref": "sp/20_0.webp"
+        },
+        "1": {
+          "asset_key": "char_020_f1",
+          "original_ref": "sp/20_1.webp"
+        }
+      }
+    },
+    "21": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_021_f0",
+          "original_ref": "sp/21_0.webp"
+        },
+        "1": {
+          "asset_key": "char_021_f1",
+          "original_ref": "sp/21_1.webp"
+        }
+      }
+    },
+    "22": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_022_f0",
+          "original_ref": "sp/22_0.webp"
+        },
+        "1": {
+          "asset_key": "char_022_f1",
+          "original_ref": "sp/22_1.webp"
+        }
+      }
+    },
+    "23": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_023_f0",
+          "original_ref": "sp/23_0.webp"
+        },
+        "1": {
+          "asset_key": "char_023_f1",
+          "original_ref": "sp/23_1.webp"
+        },
+        "2": {
+          "asset_key": "char_023_f2",
+          "original_ref": "sp/23_2.webp"
+        }
+      }
+    },
+    "24": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_024_f0",
+          "original_ref": "sp/24_0.webp"
+        },
+        "1": {
+          "asset_key": "char_024_f1",
+          "original_ref": "sp/24_1.webp"
+        }
+      }
+    },
+    "25": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_025_f0",
+          "original_ref": "sp/25_0.webp"
+        },
+        "1": {
+          "asset_key": "char_025_f1",
+          "original_ref": "sp/25_1.webp"
+        },
+        "2": {
+          "asset_key": "char_025_f2",
+          "original_ref": "sp/25_2.webp"
+        }
+      }
+    },
+    "26": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_026_f0",
+          "original_ref": "sp/26_0.webp"
+        },
+        "1": {
+          "asset_key": "char_026_f1",
+          "original_ref": "sp/26_1.webp"
+        },
+        "2": {
+          "asset_key": "char_026_f2",
+          "original_ref": "sp/26_2.webp"
+        }
+      }
+    },
+    "27": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_027_f0",
+          "original_ref": "sp/27_0.webp"
+        },
+        "1": {
+          "asset_key": "char_027_f1",
+          "original_ref": "sp/27_1.webp"
+        },
+        "2": {
+          "asset_key": "char_027_f2",
+          "original_ref": "sp/27_2.webp"
+        }
+      }
+    },
+    "28": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_028_f0",
+          "original_ref": "sp/28_0.webp"
+        },
+        "1": {
+          "asset_key": "char_028_f1",
+          "original_ref": "sp/28_1.webp"
+        },
+        "2": {
+          "asset_key": "char_028_f2",
+          "original_ref": "sp/28_2.webp"
+        }
+      }
+    },
+    "29": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_029_f0",
+          "original_ref": "sp/29_0.webp"
+        },
+        "1": {
+          "asset_key": "char_029_f1",
+          "original_ref": "sp/29_1.webp"
+        },
+        "2": {
+          "asset_key": "char_029_f2",
+          "original_ref": "sp/29_2.webp"
+        }
+      }
+    },
+    "30": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_030_f0",
+          "original_ref": "sp/30_0.webp"
+        },
+        "1": {
+          "asset_key": "char_030_f1",
+          "original_ref": "sp/30_1.webp"
+        },
+        "2": {
+          "asset_key": "char_030_f2",
+          "original_ref": "sp/30_2.webp"
+        }
+      }
+    },
+    "31": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_031_f0",
+          "original_ref": "sp/31_0.webp"
+        },
+        "1": {
+          "asset_key": "char_031_f1",
+          "original_ref": "sp/31_1.webp"
+        },
+        "2": {
+          "asset_key": "char_031_f2",
+          "original_ref": "sp/31_2.webp"
+        }
+      }
+    },
+    "32": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_032_f0",
+          "original_ref": "sp/32_0.webp"
+        },
+        "1": {
+          "asset_key": "char_032_f1",
+          "original_ref": "sp/32_1.webp"
+        },
+        "2": {
+          "asset_key": "char_032_f2",
+          "original_ref": "sp/32_2.webp"
+        }
+      }
+    },
+    "33": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_033_f0",
+          "original_ref": "sp/33_0.webp"
+        },
+        "1": {
+          "asset_key": "char_033_f1",
+          "original_ref": "sp/33_1.webp"
+        },
+        "2": {
+          "asset_key": "char_033_f2",
+          "original_ref": "sp/33_2.webp"
+        }
+      }
+    },
+    "34": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_034_f0",
+          "original_ref": "sp/34_0.webp"
+        },
+        "1": {
+          "asset_key": "char_034_f1",
+          "original_ref": "sp/34_1.webp"
+        }
+      }
+    },
+    "35": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_035_f0",
+          "original_ref": "sp/35_0.webp"
+        },
+        "1": {
+          "asset_key": "char_035_f1",
+          "original_ref": "sp/35_1.webp"
+        }
+      }
+    },
+    "36": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_036_f0",
+          "original_ref": "sp/36_0.webp"
+        },
+        "1": {
+          "asset_key": "char_036_f1",
+          "original_ref": "sp/36_1.webp"
+        },
+        "2": {
+          "asset_key": "char_036_f2",
+          "original_ref": "sp/36_2.webp"
+        }
+      }
+    },
+    "37": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_037_f0",
+          "original_ref": "sp/37_0.webp"
+        },
+        "1": {
+          "asset_key": "char_037_f1",
+          "original_ref": "sp/37_1.webp"
+        },
+        "2": {
+          "asset_key": "char_037_f2",
+          "original_ref": "sp/37_2.webp"
+        }
+      }
+    },
+    "38": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_038_f0",
+          "original_ref": "sp/38_0.webp"
+        },
+        "1": {
+          "asset_key": "char_038_f1",
+          "original_ref": "sp/38_1.webp"
+        }
+      }
+    },
+    "39": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_039_f0",
+          "original_ref": "sp/39_0.webp"
+        },
+        "1": {
+          "asset_key": "char_039_f1",
+          "original_ref": "sp/39_1.webp"
+        }
+      }
+    },
+    "40": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_040_f0",
+          "original_ref": "sp/40_0.webp"
+        },
+        "1": {
+          "asset_key": "char_040_f1",
+          "original_ref": "sp/40_1.webp"
+        }
+      }
+    },
+    "41": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_041_f0",
+          "original_ref": "sp/41_0.webp"
+        },
+        "1": {
+          "asset_key": "char_041_f1",
+          "original_ref": "sp/41_1.webp"
+        },
+        "2": {
+          "asset_key": "char_041_f2",
+          "original_ref": "sp/41_2.webp"
+        }
+      }
+    },
+    "42": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_042_f0",
+          "original_ref": "sp/42_0.webp"
+        },
+        "1": {
+          "asset_key": "char_042_f1",
+          "original_ref": "sp/42_1.webp"
+        },
+        "2": {
+          "asset_key": "char_042_f2",
+          "original_ref": "sp/42_2.webp"
+        }
+      }
+    },
+    "43": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_043_f0",
+          "original_ref": "sp/43_0.webp"
+        },
+        "1": {
+          "asset_key": "char_043_f1",
+          "original_ref": "sp/43_1.webp"
+        },
+        "2": {
+          "asset_key": "char_043_f2",
+          "original_ref": "sp/43_2.webp"
+        }
+      }
+    },
+    "44": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_044_f0",
+          "original_ref": "sp/44_0.webp"
+        },
+        "1": {
+          "asset_key": "char_044_f1",
+          "original_ref": "sp/44_1.webp"
+        }
+      }
+    },
+    "45": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_045_f0",
+          "original_ref": "sp/45_0.webp"
+        },
+        "1": {
+          "asset_key": "char_045_f1",
+          "original_ref": "sp/45_1.webp"
+        },
+        "2": {
+          "asset_key": "char_045_f2",
+          "original_ref": "sp/45_2.webp"
+        }
+      }
+    },
+    "46": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_046_f0",
+          "original_ref": "sp/46_0.webp"
+        },
+        "1": {
+          "asset_key": "char_046_f1",
+          "original_ref": "sp/46_1.webp"
+        }
+      }
+    },
+    "47": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_047_f0",
+          "original_ref": "sp/47_0.webp"
+        },
+        "1": {
+          "asset_key": "char_047_f1",
+          "original_ref": "sp/47_1.webp"
+        }
+      }
+    },
+    "48": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_048_f0",
+          "original_ref": "sp/48_0.webp"
+        },
+        "1": {
+          "asset_key": "char_048_f1",
+          "original_ref": "sp/48_1.webp"
+        }
+      }
+    },
+    "49": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_049_f0",
+          "original_ref": "sp/49_0.webp"
+        },
+        "1": {
+          "asset_key": "char_049_f1",
+          "original_ref": "sp/49_1.webp"
+        },
+        "2": {
+          "asset_key": "char_049_f2",
+          "original_ref": "sp/49_2.webp"
+        }
+      }
+    },
+    "50": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_050_f0",
+          "original_ref": "sp/50_0.webp"
+        },
+        "1": {
+          "asset_key": "char_050_f1",
+          "original_ref": "sp/50_1.webp"
+        },
+        "2": {
+          "asset_key": "char_050_f2",
+          "original_ref": "sp/50_2.webp"
+        }
+      }
+    },
+    "51": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_051_f0",
+          "original_ref": "sp/51_0.webp"
+        },
+        "1": {
+          "asset_key": "char_051_f1",
+          "original_ref": "sp/51_1.webp"
+        },
+        "2": {
+          "asset_key": "char_051_f2",
+          "original_ref": "sp/51_2.webp"
+        }
+      }
+    },
+    "52": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_052_f0",
+          "original_ref": "sp/52_0.webp"
+        },
+        "1": {
+          "asset_key": "char_052_f1",
+          "original_ref": "sp/52_1.webp"
+        },
+        "2": {
+          "asset_key": "char_052_f2",
+          "original_ref": "sp/52_2.webp"
+        }
+      }
+    },
+    "53": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_053_f0",
+          "original_ref": "sp/53_0.webp"
+        },
+        "1": {
+          "asset_key": "char_053_f1",
+          "original_ref": "sp/53_1.webp"
+        },
+        "2": {
+          "asset_key": "char_053_f2",
+          "original_ref": "sp/53_2.webp"
+        }
+      }
+    },
+    "54": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_054_f0",
+          "original_ref": "sp/54_0.webp"
+        },
+        "1": {
+          "asset_key": "char_054_f1",
+          "original_ref": "sp/54_1.webp"
+        }
+      }
+    },
+    "55": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_055_f0",
+          "original_ref": "sp/55_0.webp"
+        },
+        "1": {
+          "asset_key": "char_055_f1",
+          "original_ref": "sp/55_1.webp"
+        },
+        "2": {
+          "asset_key": "char_055_f2",
+          "original_ref": "sp/55_2.webp"
+        }
+      }
+    },
+    "56": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_056_f0",
+          "original_ref": "sp/56_0.webp"
+        },
+        "1": {
+          "asset_key": "char_056_f1",
+          "original_ref": "sp/56_1.webp"
+        }
+      }
+    },
+    "57": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_057_f0",
+          "original_ref": "sp/57_0.webp"
+        },
+        "1": {
+          "asset_key": "char_057_f1",
+          "original_ref": "sp/57_1.webp"
+        },
+        "2": {
+          "asset_key": "char_057_f2",
+          "original_ref": "sp/57_2.webp"
+        }
+      }
+    },
+    "58": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_058_f0",
+          "original_ref": "sp/58_0.webp"
+        },
+        "1": {
+          "asset_key": "char_058_f1",
+          "original_ref": "sp/58_1.webp"
+        },
+        "2": {
+          "asset_key": "char_058_f2",
+          "original_ref": "sp/58_2.webp"
+        }
+      }
+    },
+    "59": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_059_f0",
+          "original_ref": "sp/59_0.webp"
+        },
+        "1": {
+          "asset_key": "char_059_f1",
+          "original_ref": "sp/59_1.webp"
+        },
+        "2": {
+          "asset_key": "char_059_f2",
+          "original_ref": "sp/59_2.webp"
+        }
+      }
+    },
+    "60": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_060_f0",
+          "original_ref": "sp/60_0.webp"
+        },
+        "1": {
+          "asset_key": "char_060_f1",
+          "original_ref": "sp/60_1.webp"
+        },
+        "2": {
+          "asset_key": "char_060_f2",
+          "original_ref": "sp/60_2.webp"
+        }
+      }
+    },
+    "61": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_061_f0",
+          "original_ref": "sp/61_0.webp"
+        },
+        "1": {
+          "asset_key": "char_061_f1",
+          "original_ref": "sp/61_1.webp"
+        }
+      }
+    },
+    "62": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_062_f0",
+          "original_ref": "sp/62_0.webp"
+        },
+        "1": {
+          "asset_key": "char_062_f1",
+          "original_ref": "sp/62_1.webp"
+        }
+      }
+    },
+    "63": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_063_f0",
+          "original_ref": "sp/63_0.webp"
+        },
+        "1": {
+          "asset_key": "char_063_f1",
+          "original_ref": "sp/63_1.webp"
+        }
+      }
+    },
+    "64": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_064_f0",
+          "original_ref": "sp/64_0.webp"
+        },
+        "1": {
+          "asset_key": "char_064_f1",
+          "original_ref": "sp/64_1.webp"
+        },
+        "2": {
+          "asset_key": "char_064_f2",
+          "original_ref": "sp/64_2.webp"
+        }
+      }
+    },
+    "65": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_065_f0",
+          "original_ref": "sp/65_0.webp"
+        },
+        "1": {
+          "asset_key": "char_065_f1",
+          "original_ref": "sp/65_1.webp"
+        }
+      }
+    },
+    "66": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_066_f0",
+          "original_ref": "sp/66_0.webp"
+        },
+        "1": {
+          "asset_key": "char_066_f1",
+          "original_ref": "sp/66_1.webp"
+        }
+      }
+    },
+    "67": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_067_f0",
+          "original_ref": "sp/67_0.webp"
+        },
+        "1": {
+          "asset_key": "char_067_f1",
+          "original_ref": "sp/67_1.webp"
+        }
+      }
+    },
+    "68": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_068_f0",
+          "original_ref": "sp/68_0.webp"
+        },
+        "1": {
+          "asset_key": "char_068_f1",
+          "original_ref": "sp/68_1.webp"
+        }
+      }
+    },
+    "69": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_069_f0",
+          "original_ref": "sp/69_0.webp"
+        },
+        "1": {
+          "asset_key": "char_069_f1",
+          "original_ref": "sp/69_1.webp"
+        }
+      }
+    },
+    "70": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_070_f0",
+          "original_ref": "sp/70_0.webp"
+        },
+        "1": {
+          "asset_key": "char_070_f1",
+          "original_ref": "sp/70_1.webp"
+        },
+        "2": {
+          "asset_key": "char_070_f2",
+          "original_ref": "sp/70_2.webp"
+        }
+      }
+    },
+    "71": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_071_f0",
+          "original_ref": "sp/71_0.webp"
+        },
+        "1": {
+          "asset_key": "char_071_f1",
+          "original_ref": "sp/71_1.webp"
+        },
+        "2": {
+          "asset_key": "char_071_f2",
+          "original_ref": "sp/71_2.webp"
+        }
+      }
+    },
+    "72": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_072_f0",
+          "original_ref": "sp/72_0.webp"
+        },
+        "1": {
+          "asset_key": "char_072_f1",
+          "original_ref": "sp/72_1.webp"
+        },
+        "2": {
+          "asset_key": "char_072_f2",
+          "original_ref": "sp/72_2.webp"
+        }
+      }
+    },
+    "73": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_073_f0",
+          "original_ref": "sp/73_0.webp"
+        },
+        "1": {
+          "asset_key": "char_073_f1",
+          "original_ref": "sp/73_1.webp"
+        },
+        "2": {
+          "asset_key": "char_073_f2",
+          "original_ref": "sp/73_2.webp"
+        }
+      }
+    },
+    "74": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_074_f0",
+          "original_ref": "sp/74_0.webp"
+        },
+        "1": {
+          "asset_key": "char_074_f1",
+          "original_ref": "sp/74_1.webp"
+        },
+        "2": {
+          "asset_key": "char_074_f2",
+          "original_ref": "sp/74_2.webp"
+        }
+      }
+    },
+    "75": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_075_f0",
+          "original_ref": "sp/75_0.webp"
+        },
+        "1": {
+          "asset_key": "char_075_f1",
+          "original_ref": "sp/75_1.webp"
+        }
+      }
+    },
+    "76": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_076_f0",
+          "original_ref": "sp/76_0.webp"
+        },
+        "1": {
+          "asset_key": "char_076_f1",
+          "original_ref": "sp/76_1.webp"
+        },
+        "2": {
+          "asset_key": "char_076_f2",
+          "original_ref": "sp/76_2.webp"
+        }
+      }
+    },
+    "77": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_077_f0",
+          "original_ref": "sp/77_0.webp"
+        },
+        "1": {
+          "asset_key": "char_077_f1",
+          "original_ref": "sp/77_1.webp"
+        }
+      }
+    },
+    "78": {
+      "element": "fire",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_078_f0",
+          "original_ref": "sp/78_0.webp"
+        },
+        "1": {
+          "asset_key": "char_078_f1",
+          "original_ref": "sp/78_1.webp"
+        },
+        "2": {
+          "asset_key": "char_078_f2",
+          "original_ref": "sp/78_2.webp"
+        }
+      }
+    },
+    "79": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_079_f0",
+          "original_ref": "sp/79_0.webp"
+        },
+        "1": {
+          "asset_key": "char_079_f1",
+          "original_ref": "sp/79_1.webp"
+        },
+        "2": {
+          "asset_key": "char_079_f2",
+          "original_ref": "sp/79_2.webp"
+        }
+      }
+    },
+    "80": {
+      "element": "fire",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_080_f0",
+          "original_ref": "sp/80_0.webp"
+        },
+        "1": {
+          "asset_key": "char_080_f1",
+          "original_ref": "sp/80_1.webp"
+        },
+        "2": {
+          "asset_key": "char_080_f2",
+          "original_ref": "sp/80_2.webp"
+        }
+      }
+    },
+    "81": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_081_f0",
+          "original_ref": "sp/81_0.webp"
+        },
+        "1": {
+          "asset_key": "char_081_f1",
+          "original_ref": "sp/81_1.webp"
+        },
+        "2": {
+          "asset_key": "char_081_f2",
+          "original_ref": "sp/81_2.webp"
+        }
+      }
+    },
+    "82": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_082_f0",
+          "original_ref": "sp/82_0.webp"
+        },
+        "1": {
+          "asset_key": "char_082_f1",
+          "original_ref": "sp/82_1.webp"
+        }
+      }
+    },
+    "83": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_083_f0",
+          "original_ref": "sp/83_0.webp"
+        },
+        "1": {
+          "asset_key": "char_083_f1",
+          "original_ref": "sp/83_1.webp"
+        },
+        "2": {
+          "asset_key": "char_083_f2",
+          "original_ref": "sp/83_2.webp"
+        }
+      }
+    },
+    "84": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_084_f0",
+          "original_ref": "sp/84_0.webp"
+        },
+        "1": {
+          "asset_key": "char_084_f1",
+          "original_ref": "sp/84_1.webp"
+        },
+        "2": {
+          "asset_key": "char_084_f2",
+          "original_ref": "sp/84_2.webp"
+        }
+      }
+    },
+    "85": {
+      "element": "fire",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_085_f0",
+          "original_ref": "sp/85_0.webp"
+        },
+        "1": {
+          "asset_key": "char_085_f1",
+          "original_ref": "sp/85_1.webp"
+        },
+        "2": {
+          "asset_key": "char_085_f2",
+          "original_ref": "sp/85_2.webp"
+        }
+      }
+    },
+    "86": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_086_f0",
+          "original_ref": "sp/86_0.webp"
+        },
+        "1": {
+          "asset_key": "char_086_f1",
+          "original_ref": "sp/86_1.webp"
+        }
+      }
+    },
+    "87": {
+      "element": "fire",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_087_f0",
+          "original_ref": "sp/87_0.webp"
+        },
+        "1": {
+          "asset_key": "char_087_f1",
+          "original_ref": "sp/87_1.webp"
+        },
+        "2": {
+          "asset_key": "char_087_f2",
+          "original_ref": "sp/87_2.webp"
+        }
+      }
+    },
+    "88": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_088_f0",
+          "original_ref": "sp/88_0.webp"
+        },
+        "1": {
+          "asset_key": "char_088_f1",
+          "original_ref": "sp/88_1.webp"
+        }
+      }
+    },
+    "89": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_089_f0",
+          "original_ref": "sp/89_0.webp"
+        },
+        "1": {
+          "asset_key": "char_089_f1",
+          "original_ref": "sp/89_1.webp"
+        }
+      }
+    },
+    "90": {
+      "element": "fire",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_090_f0",
+          "original_ref": "sp/90_0.webp"
+        },
+        "1": {
+          "asset_key": "char_090_f1",
+          "original_ref": "sp/90_1.webp"
+        },
+        "2": {
+          "asset_key": "char_090_f2",
+          "original_ref": "sp/90_2.webp"
+        }
+      }
+    },
+    "91": {
+      "element": "fire",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_091_f0",
+          "original_ref": "sp/91_0.webp"
+        },
+        "1": {
+          "asset_key": "char_091_f1",
+          "original_ref": "sp/91_1.webp"
+        },
+        "2": {
+          "asset_key": "char_091_f2",
+          "original_ref": "sp/91_2.webp"
+        }
+      }
+    },
+    "92": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_092_f0",
+          "original_ref": "sp/92_0.webp"
+        },
+        "1": {
+          "asset_key": "char_092_f1",
+          "original_ref": "sp/92_1.webp"
+        },
+        "2": {
+          "asset_key": "char_092_f2",
+          "original_ref": "sp/92_2.webp"
+        }
+      }
+    },
+    "93": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_093_f0",
+          "original_ref": "sp/93_0.webp"
+        },
+        "1": {
+          "asset_key": "char_093_f1",
+          "original_ref": "sp/93_1.webp"
+        }
+      }
+    },
+    "94": {
+      "element": "fire",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_094_f0",
+          "original_ref": "sp/94_0.webp"
+        },
+        "1": {
+          "asset_key": "char_094_f1",
+          "original_ref": "sp/94_1.webp"
+        },
+        "2": {
+          "asset_key": "char_094_f2",
+          "original_ref": "sp/94_2.webp"
+        }
+      }
+    },
+    "95": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_095_f0",
+          "original_ref": "sp/95_0.webp"
+        },
+        "1": {
+          "asset_key": "char_095_f1",
+          "original_ref": "sp/95_1.webp"
+        }
+      }
+    },
+    "96": {
+      "element": "fire",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_096_f0",
+          "original_ref": "sp/96_0.webp"
+        },
+        "1": {
+          "asset_key": "char_096_f1",
+          "original_ref": "sp/96_1.webp"
+        }
+      }
+    },
+    "97": {
+      "element": "fire",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_097_f0",
+          "original_ref": "sp/97_0.webp"
+        },
+        "1": {
+          "asset_key": "char_097_f1",
+          "original_ref": "sp/97_1.webp"
+        },
+        "2": {
+          "asset_key": "char_097_f2",
+          "original_ref": "sp/97_2.webp"
+        }
+      }
+    },
+    "98": {
+      "element": "fire",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_098_f0",
+          "original_ref": "sp/98_0.webp"
+        },
+        "1": {
+          "asset_key": "char_098_f1",
+          "original_ref": "sp/98_1.webp"
+        },
+        "2": {
+          "asset_key": "char_098_f2",
+          "original_ref": "sp/98_2.webp"
+        }
+      }
+    },
+    "99": {
+      "element": "fire",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_099_f0",
+          "original_ref": "sp/99_0.webp"
+        },
+        "1": {
+          "asset_key": "char_099_f1",
+          "original_ref": "sp/99_1.webp"
+        },
+        "2": {
+          "asset_key": "char_099_f2",
+          "original_ref": "sp/99_2.webp"
+        }
+      }
+    },
+    "100": {
+      "element": "fire",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_100_f0",
+          "original_ref": "sp/100_0.webp"
+        },
+        "1": {
+          "asset_key": "char_100_f1",
+          "original_ref": "sp/100_1.webp"
+        },
+        "2": {
+          "asset_key": "char_100_f2",
+          "original_ref": "sp/100_2.webp"
+        }
+      }
+    },
+    "101": {
+      "element": "fire",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_101_f0",
+          "original_ref": "sp/101_0.webp"
+        },
+        "1": {
+          "asset_key": "char_101_f1",
+          "original_ref": "sp/101_1.webp"
+        },
+        "2": {
+          "asset_key": "char_101_f2",
+          "original_ref": "sp/101_2.webp"
+        }
+      }
+    },
+    "102": {
+      "element": "fire",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_102_f0",
+          "original_ref": "sp/102_0.webp"
+        },
+        "1": {
+          "asset_key": "char_102_f1",
+          "original_ref": "sp/102_1.webp"
+        },
+        "2": {
+          "asset_key": "char_102_f2",
+          "original_ref": "sp/102_2.webp"
+        }
+      }
+    },
+    "103": {
+      "element": "fire",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_103_f0",
+          "original_ref": "sp/103_0.webp"
+        },
+        "1": {
+          "asset_key": "char_103_f1",
+          "original_ref": "sp/103_1.webp"
+        },
+        "2": {
+          "asset_key": "char_103_f2",
+          "original_ref": "sp/103_2.webp"
+        }
+      }
+    },
+    "104": {
+      "element": "fire",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_104_f0",
+          "original_ref": "sp/104_0.webp"
+        },
+        "1": {
+          "asset_key": "char_104_f1",
+          "original_ref": "sp/104_1.webp"
+        },
+        "2": {
+          "asset_key": "char_104_f2",
+          "original_ref": "sp/104_2.webp"
+        }
+      }
+    },
+    "105": {
+      "element": "fire",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_105_f0",
+          "original_ref": "sp/105_0.webp"
+        },
+        "1": {
+          "asset_key": "char_105_f1",
+          "original_ref": "sp/105_1.webp"
+        },
+        "2": {
+          "asset_key": "char_105_f2",
+          "original_ref": "sp/105_2.webp"
+        }
+      }
+    },
+    "106": {
+      "element": "fire",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_106_f0",
+          "original_ref": "sp/106_0.webp"
+        },
+        "1": {
+          "asset_key": "char_106_f1",
+          "original_ref": "sp/106_1.webp"
+        },
+        "2": {
+          "asset_key": "char_106_f2",
+          "original_ref": "sp/106_2.webp"
+        }
+      }
+    },
+    "107": {
+      "element": "fire",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_107_f0",
+          "original_ref": "sp/107_0.webp"
+        },
+        "1": {
+          "asset_key": "char_107_f1",
+          "original_ref": "sp/107_1.webp"
+        },
+        "2": {
+          "asset_key": "char_107_f2",
+          "original_ref": "sp/107_2.webp"
+        }
+      }
+    },
+    "108": {
+      "element": "fire",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_108_f0",
+          "original_ref": "sp/108_0.webp"
+        },
+        "1": {
+          "asset_key": "char_108_f1",
+          "original_ref": "sp/108_1.webp"
+        },
+        "2": {
+          "asset_key": "char_108_f2",
+          "original_ref": "sp/108_2.webp"
+        }
+      }
+    },
+    "109": {
+      "element": "fire",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_109_f0",
+          "original_ref": "sp/109_0.webp"
+        },
+        "1": {
+          "asset_key": "char_109_f1",
+          "original_ref": "sp/109_1.webp"
+        },
+        "2": {
+          "asset_key": "char_109_f2",
+          "original_ref": "sp/109_2.webp"
+        }
+      }
+    },
+    "110": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_110_f0",
+          "original_ref": "sp/110_0.webp"
+        },
+        "1": {
+          "asset_key": "char_110_f1",
+          "original_ref": "sp/110_1.webp"
+        }
+      }
+    },
+    "111": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_111_f0",
+          "original_ref": "sp/111_0.webp"
+        },
+        "1": {
+          "asset_key": "char_111_f1",
+          "original_ref": "sp/111_1.webp"
+        }
+      }
+    },
+    "112": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_112_f0",
+          "original_ref": "sp/112_0.webp"
+        },
+        "1": {
+          "asset_key": "char_112_f1",
+          "original_ref": "sp/112_1.webp"
+        },
+        "2": {
+          "asset_key": "char_112_f2",
+          "original_ref": "sp/112_2.webp"
+        }
+      }
+    },
+    "113": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_113_f0",
+          "original_ref": "sp/113_0.webp"
+        },
+        "1": {
+          "asset_key": "char_113_f1",
+          "original_ref": "sp/113_1.webp"
+        },
+        "2": {
+          "asset_key": "char_113_f2",
+          "original_ref": "sp/113_2.webp"
+        }
+      }
+    },
+    "114": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_114_f0",
+          "original_ref": "sp/114_0.webp"
+        },
+        "1": {
+          "asset_key": "char_114_f1",
+          "original_ref": "sp/114_1.webp"
+        }
+      }
+    },
+    "115": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_115_f0",
+          "original_ref": "sp/115_0.webp"
+        },
+        "1": {
+          "asset_key": "char_115_f1",
+          "original_ref": "sp/115_1.webp"
+        },
+        "2": {
+          "asset_key": "char_115_f2",
+          "original_ref": "sp/115_2.webp"
+        }
+      }
+    },
+    "116": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_116_f0",
+          "original_ref": "sp/116_0.webp"
+        },
+        "1": {
+          "asset_key": "char_116_f1",
+          "original_ref": "sp/116_1.webp"
+        }
+      }
+    },
+    "117": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_117_f0",
+          "original_ref": "sp/117_0.webp"
+        },
+        "1": {
+          "asset_key": "char_117_f1",
+          "original_ref": "sp/117_1.webp"
+        }
+      }
+    },
+    "118": {
+      "element": "wind",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_118_f0",
+          "original_ref": "sp/118_0.webp"
+        },
+        "1": {
+          "asset_key": "char_118_f1",
+          "original_ref": "sp/118_1.webp"
+        },
+        "2": {
+          "asset_key": "char_118_f2",
+          "original_ref": "sp/118_2.webp"
+        }
+      }
+    },
+    "119": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_119_f0",
+          "original_ref": "sp/119_0.webp"
+        },
+        "1": {
+          "asset_key": "char_119_f1",
+          "original_ref": "sp/119_1.webp"
+        },
+        "2": {
+          "asset_key": "char_119_f2",
+          "original_ref": "sp/119_2.webp"
+        }
+      }
+    },
+    "120": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_120_f0",
+          "original_ref": "sp/120_0.webp"
+        },
+        "1": {
+          "asset_key": "char_120_f1",
+          "original_ref": "sp/120_1.webp"
+        }
+      }
+    },
+    "121": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_121_f0",
+          "original_ref": "sp/121_0.webp"
+        },
+        "1": {
+          "asset_key": "char_121_f1",
+          "original_ref": "sp/121_1.webp"
+        },
+        "2": {
+          "asset_key": "char_121_f2",
+          "original_ref": "sp/121_2.webp"
+        }
+      }
+    },
+    "122": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_122_f0",
+          "original_ref": "sp/122_0.webp"
+        },
+        "1": {
+          "asset_key": "char_122_f1",
+          "original_ref": "sp/122_1.webp"
+        }
+      }
+    },
+    "123": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_123_f0",
+          "original_ref": "sp/123_0.webp"
+        },
+        "1": {
+          "asset_key": "char_123_f1",
+          "original_ref": "sp/123_1.webp"
+        },
+        "2": {
+          "asset_key": "char_123_f2",
+          "original_ref": "sp/123_2.webp"
+        }
+      }
+    },
+    "124": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_124_f0",
+          "original_ref": "sp/124_0.webp"
+        },
+        "1": {
+          "asset_key": "char_124_f1",
+          "original_ref": "sp/124_1.webp"
+        },
+        "2": {
+          "asset_key": "char_124_f2",
+          "original_ref": "sp/124_2.webp"
+        }
+      }
+    },
+    "125": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_125_f0",
+          "original_ref": "sp/125_0.webp"
+        },
+        "1": {
+          "asset_key": "char_125_f1",
+          "original_ref": "sp/125_1.webp"
+        }
+      }
+    },
+    "126": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_126_f0",
+          "original_ref": "sp/126_0.webp"
+        },
+        "1": {
+          "asset_key": "char_126_f1",
+          "original_ref": "sp/126_1.webp"
+        }
+      }
+    },
+    "127": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_127_f0",
+          "original_ref": "sp/127_0.webp"
+        },
+        "1": {
+          "asset_key": "char_127_f1",
+          "original_ref": "sp/127_1.webp"
+        }
+      }
+    },
+    "128": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_128_f0",
+          "original_ref": "sp/128_0.webp"
+        },
+        "1": {
+          "asset_key": "char_128_f1",
+          "original_ref": "sp/128_1.webp"
+        },
+        "2": {
+          "asset_key": "char_128_f2",
+          "original_ref": "sp/128_2.webp"
+        }
+      }
+    },
+    "129": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_129_f0",
+          "original_ref": "sp/129_0.webp"
+        },
+        "1": {
+          "asset_key": "char_129_f1",
+          "original_ref": "sp/129_1.webp"
+        },
+        "2": {
+          "asset_key": "char_129_f2",
+          "original_ref": "sp/129_2.webp"
+        }
+      }
+    },
+    "130": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_130_f0",
+          "original_ref": "sp/130_0.webp"
+        },
+        "1": {
+          "asset_key": "char_130_f1",
+          "original_ref": "sp/130_1.webp"
+        },
+        "2": {
+          "asset_key": "char_130_f2",
+          "original_ref": "sp/130_2.webp"
+        }
+      }
+    },
+    "131": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_131_f0",
+          "original_ref": "sp/131_0.webp"
+        },
+        "1": {
+          "asset_key": "char_131_f1",
+          "original_ref": "sp/131_1.webp"
+        },
+        "2": {
+          "asset_key": "char_131_f2",
+          "original_ref": "sp/131_2.webp"
+        }
+      }
+    },
+    "132": {
+      "element": "wind",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_132_f0",
+          "original_ref": "sp/132_0.webp"
+        },
+        "1": {
+          "asset_key": "char_132_f1",
+          "original_ref": "sp/132_1.webp"
+        },
+        "2": {
+          "asset_key": "char_132_f2",
+          "original_ref": "sp/132_2.webp"
+        }
+      }
+    },
+    "133": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_133_f0",
+          "original_ref": "sp/133_0.webp"
+        },
+        "1": {
+          "asset_key": "char_133_f1",
+          "original_ref": "sp/133_1.webp"
+        }
+      }
+    },
+    "134": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_134_f0",
+          "original_ref": "sp/134_0.webp"
+        },
+        "1": {
+          "asset_key": "char_134_f1",
+          "original_ref": "sp/134_1.webp"
+        }
+      }
+    },
+    "135": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_135_f0",
+          "original_ref": "sp/135_0.webp"
+        },
+        "1": {
+          "asset_key": "char_135_f1",
+          "original_ref": "sp/135_1.webp"
+        }
+      }
+    },
+    "136": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_136_f0",
+          "original_ref": "sp/136_0.webp"
+        },
+        "1": {
+          "asset_key": "char_136_f1",
+          "original_ref": "sp/136_1.webp"
+        }
+      }
+    },
+    "137": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_137_f0",
+          "original_ref": "sp/137_0.webp"
+        },
+        "1": {
+          "asset_key": "char_137_f1",
+          "original_ref": "sp/137_1.webp"
+        }
+      }
+    },
+    "138": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_138_f0",
+          "original_ref": "sp/138_0.webp"
+        },
+        "1": {
+          "asset_key": "char_138_f1",
+          "original_ref": "sp/138_1.webp"
+        },
+        "2": {
+          "asset_key": "char_138_f2",
+          "original_ref": "sp/138_2.webp"
+        }
+      }
+    },
+    "139": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_139_f0",
+          "original_ref": "sp/139_0.webp"
+        },
+        "1": {
+          "asset_key": "char_139_f1",
+          "original_ref": "sp/139_1.webp"
+        },
+        "2": {
+          "asset_key": "char_139_f2",
+          "original_ref": "sp/139_2.webp"
+        }
+      }
+    },
+    "140": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_140_f0",
+          "original_ref": "sp/140_0.webp"
+        },
+        "1": {
+          "asset_key": "char_140_f1",
+          "original_ref": "sp/140_1.webp"
+        }
+      }
+    },
+    "141": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_141_f0",
+          "original_ref": "sp/141_0.webp"
+        },
+        "1": {
+          "asset_key": "char_141_f1",
+          "original_ref": "sp/141_1.webp"
+        },
+        "2": {
+          "asset_key": "char_141_f2",
+          "original_ref": "sp/141_2.webp"
+        }
+      }
+    },
+    "142": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_142_f0",
+          "original_ref": "sp/142_0.webp"
+        },
+        "1": {
+          "asset_key": "char_142_f1",
+          "original_ref": "sp/142_1.webp"
+        },
+        "2": {
+          "asset_key": "char_142_f2",
+          "original_ref": "sp/142_2.webp"
+        }
+      }
+    },
+    "143": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_143_f0",
+          "original_ref": "sp/143_0.webp"
+        },
+        "1": {
+          "asset_key": "char_143_f1",
+          "original_ref": "sp/143_1.webp"
+        }
+      }
+    },
+    "144": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_144_f0",
+          "original_ref": "sp/144_0.webp"
+        },
+        "1": {
+          "asset_key": "char_144_f1",
+          "original_ref": "sp/144_1.webp"
+        }
+      }
+    },
+    "145": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_145_f0",
+          "original_ref": "sp/145_0.webp"
+        },
+        "1": {
+          "asset_key": "char_145_f1",
+          "original_ref": "sp/145_1.webp"
+        },
+        "2": {
+          "asset_key": "char_145_f2",
+          "original_ref": "sp/145_2.webp"
+        }
+      }
+    },
+    "146": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_146_f0",
+          "original_ref": "sp/146_0.webp"
+        },
+        "1": {
+          "asset_key": "char_146_f1",
+          "original_ref": "sp/146_1.webp"
+        },
+        "2": {
+          "asset_key": "char_146_f2",
+          "original_ref": "sp/146_2.webp"
+        }
+      }
+    },
+    "147": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_147_f0",
+          "original_ref": "sp/147_0.webp"
+        },
+        "1": {
+          "asset_key": "char_147_f1",
+          "original_ref": "sp/147_1.webp"
+        },
+        "2": {
+          "asset_key": "char_147_f2",
+          "original_ref": "sp/147_2.webp"
+        }
+      }
+    },
+    "148": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_148_f0",
+          "original_ref": "sp/148_0.webp"
+        },
+        "1": {
+          "asset_key": "char_148_f1",
+          "original_ref": "sp/148_1.webp"
+        },
+        "2": {
+          "asset_key": "char_148_f2",
+          "original_ref": "sp/148_2.webp"
+        }
+      }
+    },
+    "149": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_149_f0",
+          "original_ref": "sp/149_0.webp"
+        },
+        "1": {
+          "asset_key": "char_149_f1",
+          "original_ref": "sp/149_1.webp"
+        },
+        "2": {
+          "asset_key": "char_149_f2",
+          "original_ref": "sp/149_2.webp"
+        }
+      }
+    },
+    "150": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_150_f0",
+          "original_ref": "sp/150_0.webp"
+        },
+        "1": {
+          "asset_key": "char_150_f1",
+          "original_ref": "sp/150_1.webp"
+        },
+        "2": {
+          "asset_key": "char_150_f2",
+          "original_ref": "sp/150_2.webp"
+        }
+      }
+    },
+    "151": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_151_f0",
+          "original_ref": "sp/151_0.webp"
+        },
+        "1": {
+          "asset_key": "char_151_f1",
+          "original_ref": "sp/151_1.webp"
+        },
+        "2": {
+          "asset_key": "char_151_f2",
+          "original_ref": "sp/151_2.webp"
+        }
+      }
+    },
+    "152": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_152_f0",
+          "original_ref": "sp/152_0.webp"
+        },
+        "1": {
+          "asset_key": "char_152_f1",
+          "original_ref": "sp/152_1.webp"
+        }
+      }
+    },
+    "153": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_153_f0",
+          "original_ref": "sp/153_0.webp"
+        },
+        "1": {
+          "asset_key": "char_153_f1",
+          "original_ref": "sp/153_1.webp"
+        }
+      }
+    },
+    "154": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_154_f0",
+          "original_ref": "sp/154_0.webp"
+        },
+        "1": {
+          "asset_key": "char_154_f1",
+          "original_ref": "sp/154_1.webp"
+        }
+      }
+    },
+    "155": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_155_f0",
+          "original_ref": "sp/155_0.webp"
+        },
+        "1": {
+          "asset_key": "char_155_f1",
+          "original_ref": "sp/155_1.webp"
+        },
+        "2": {
+          "asset_key": "char_155_f2",
+          "original_ref": "sp/155_2.webp"
+        }
+      }
+    },
+    "156": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_156_f0",
+          "original_ref": "sp/156_0.webp"
+        },
+        "1": {
+          "asset_key": "char_156_f1",
+          "original_ref": "sp/156_1.webp"
+        },
+        "2": {
+          "asset_key": "char_156_f2",
+          "original_ref": "sp/156_2.webp"
+        }
+      }
+    },
+    "157": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_157_f0",
+          "original_ref": "sp/157_0.webp"
+        },
+        "1": {
+          "asset_key": "char_157_f1",
+          "original_ref": "sp/157_1.webp"
+        },
+        "2": {
+          "asset_key": "char_157_f2",
+          "original_ref": "sp/157_2.webp"
+        }
+      }
+    },
+    "158": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_158_f0",
+          "original_ref": "sp/158_0.webp"
+        },
+        "1": {
+          "asset_key": "char_158_f1",
+          "original_ref": "sp/158_1.webp"
+        },
+        "2": {
+          "asset_key": "char_158_f2",
+          "original_ref": "sp/158_2.webp"
+        }
+      }
+    },
+    "159": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_159_f0",
+          "original_ref": "sp/159_0.webp"
+        },
+        "1": {
+          "asset_key": "char_159_f1",
+          "original_ref": "sp/159_1.webp"
+        },
+        "2": {
+          "asset_key": "char_159_f2",
+          "original_ref": "sp/159_2.webp"
+        }
+      }
+    },
+    "160": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_160_f0",
+          "original_ref": "sp/160_0.webp"
+        },
+        "1": {
+          "asset_key": "char_160_f1",
+          "original_ref": "sp/160_1.webp"
+        }
+      }
+    },
+    "161": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_161_f0",
+          "original_ref": "sp/161_0.webp"
+        },
+        "1": {
+          "asset_key": "char_161_f1",
+          "original_ref": "sp/161_1.webp"
+        },
+        "2": {
+          "asset_key": "char_161_f2",
+          "original_ref": "sp/161_2.webp"
+        }
+      }
+    },
+    "162": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_162_f0",
+          "original_ref": "sp/162_0.webp"
+        },
+        "1": {
+          "asset_key": "char_162_f1",
+          "original_ref": "sp/162_1.webp"
+        },
+        "2": {
+          "asset_key": "char_162_f2",
+          "original_ref": "sp/162_2.webp"
+        }
+      }
+    },
+    "163": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_163_f0",
+          "original_ref": "sp/163_0.webp"
+        },
+        "1": {
+          "asset_key": "char_163_f1",
+          "original_ref": "sp/163_1.webp"
+        },
+        "2": {
+          "asset_key": "char_163_f2",
+          "original_ref": "sp/163_2.webp"
+        }
+      }
+    },
+    "164": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_164_f0",
+          "original_ref": "sp/164_0.webp"
+        },
+        "1": {
+          "asset_key": "char_164_f1",
+          "original_ref": "sp/164_1.webp"
+        }
+      }
+    },
+    "165": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_165_f0",
+          "original_ref": "sp/165_0.webp"
+        },
+        "1": {
+          "asset_key": "char_165_f1",
+          "original_ref": "sp/165_1.webp"
+        }
+      }
+    },
+    "166": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_166_f0",
+          "original_ref": "sp/166_0.webp"
+        },
+        "1": {
+          "asset_key": "char_166_f1",
+          "original_ref": "sp/166_1.webp"
+        },
+        "2": {
+          "asset_key": "char_166_f2",
+          "original_ref": "sp/166_2.webp"
+        }
+      }
+    },
+    "167": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_167_f0",
+          "original_ref": "sp/167_0.webp"
+        },
+        "1": {
+          "asset_key": "char_167_f1",
+          "original_ref": "sp/167_1.webp"
+        },
+        "2": {
+          "asset_key": "char_167_f2",
+          "original_ref": "sp/167_2.webp"
+        }
+      }
+    },
+    "168": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_168_f0",
+          "original_ref": "sp/168_0.webp"
+        },
+        "1": {
+          "asset_key": "char_168_f1",
+          "original_ref": "sp/168_1.webp"
+        }
+      }
+    },
+    "169": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_169_f0",
+          "original_ref": "sp/169_0.webp"
+        },
+        "1": {
+          "asset_key": "char_169_f1",
+          "original_ref": "sp/169_1.webp"
+        },
+        "2": {
+          "asset_key": "char_169_f2",
+          "original_ref": "sp/169_2.webp"
+        }
+      }
+    },
+    "170": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_170_f0",
+          "original_ref": "sp/170_0.webp"
+        },
+        "1": {
+          "asset_key": "char_170_f1",
+          "original_ref": "sp/170_1.webp"
+        }
+      }
+    },
+    "171": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_171_f0",
+          "original_ref": "sp/171_0.webp"
+        },
+        "1": {
+          "asset_key": "char_171_f1",
+          "original_ref": "sp/171_1.webp"
+        }
+      }
+    },
+    "172": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_172_f0",
+          "original_ref": "sp/172_0.webp"
+        },
+        "1": {
+          "asset_key": "char_172_f1",
+          "original_ref": "sp/172_1.webp"
+        },
+        "2": {
+          "asset_key": "char_172_f2",
+          "original_ref": "sp/172_2.webp"
+        }
+      }
+    },
+    "173": {
+      "element": "wind",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_173_f0",
+          "original_ref": "sp/173_0.webp"
+        },
+        "1": {
+          "asset_key": "char_173_f1",
+          "original_ref": "sp/173_1.webp"
+        },
+        "2": {
+          "asset_key": "char_173_f2",
+          "original_ref": "sp/173_2.webp"
+        }
+      }
+    },
+    "174": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_174_f0",
+          "original_ref": "sp/174_0.webp"
+        },
+        "1": {
+          "asset_key": "char_174_f1",
+          "original_ref": "sp/174_1.webp"
+        }
+      }
+    },
+    "175": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_175_f0",
+          "original_ref": "sp/175_0.webp"
+        },
+        "1": {
+          "asset_key": "char_175_f1",
+          "original_ref": "sp/175_1.webp"
+        },
+        "2": {
+          "asset_key": "char_175_f2",
+          "original_ref": "sp/175_2.webp"
+        }
+      }
+    },
+    "176": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_176_f0",
+          "original_ref": "sp/176_0.webp"
+        },
+        "1": {
+          "asset_key": "char_176_f1",
+          "original_ref": "sp/176_1.webp"
+        },
+        "2": {
+          "asset_key": "char_176_f2",
+          "original_ref": "sp/176_2.webp"
+        }
+      }
+    },
+    "177": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_177_f0",
+          "original_ref": "sp/177_0.webp"
+        },
+        "1": {
+          "asset_key": "char_177_f1",
+          "original_ref": "sp/177_1.webp"
+        }
+      }
+    },
+    "178": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_178_f0",
+          "original_ref": "sp/178_0.webp"
+        },
+        "1": {
+          "asset_key": "char_178_f1",
+          "original_ref": "sp/178_1.webp"
+        }
+      }
+    },
+    "179": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_179_f0",
+          "original_ref": "sp/179_0.webp"
+        },
+        "1": {
+          "asset_key": "char_179_f1",
+          "original_ref": "sp/179_1.webp"
+        },
+        "2": {
+          "asset_key": "char_179_f2",
+          "original_ref": "sp/179_2.webp"
+        }
+      }
+    },
+    "180": {
+      "element": "wind",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_180_f0",
+          "original_ref": "sp/180_0.webp"
+        },
+        "1": {
+          "asset_key": "char_180_f1",
+          "original_ref": "sp/180_1.webp"
+        },
+        "2": {
+          "asset_key": "char_180_f2",
+          "original_ref": "sp/180_2.webp"
+        }
+      }
+    },
+    "181": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_181_f0",
+          "original_ref": "sp/181_0.webp"
+        },
+        "1": {
+          "asset_key": "char_181_f1",
+          "original_ref": "sp/181_1.webp"
+        },
+        "2": {
+          "asset_key": "char_181_f2",
+          "original_ref": "sp/181_2.webp"
+        }
+      }
+    },
+    "182": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_182_f0",
+          "original_ref": "sp/182_0.webp"
+        },
+        "1": {
+          "asset_key": "char_182_f1",
+          "original_ref": "sp/182_1.webp"
+        },
+        "2": {
+          "asset_key": "char_182_f2",
+          "original_ref": "sp/182_2.webp"
+        }
+      }
+    },
+    "183": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_183_f0",
+          "original_ref": "sp/183_0.webp"
+        },
+        "1": {
+          "asset_key": "char_183_f1",
+          "original_ref": "sp/183_1.webp"
+        }
+      }
+    },
+    "184": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_184_f0",
+          "original_ref": "sp/184_0.webp"
+        },
+        "1": {
+          "asset_key": "char_184_f1",
+          "original_ref": "sp/184_1.webp"
+        },
+        "2": {
+          "asset_key": "char_184_f2",
+          "original_ref": "sp/184_2.webp"
+        }
+      }
+    },
+    "185": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_185_f0",
+          "original_ref": "sp/185_0.webp"
+        },
+        "1": {
+          "asset_key": "char_185_f1",
+          "original_ref": "sp/185_1.webp"
+        }
+      }
+    },
+    "186": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_186_f0",
+          "original_ref": "sp/186_0.webp"
+        },
+        "1": {
+          "asset_key": "char_186_f1",
+          "original_ref": "sp/186_1.webp"
+        }
+      }
+    },
+    "187": {
+      "element": "wind",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_187_f0",
+          "original_ref": "sp/187_0.webp"
+        },
+        "1": {
+          "asset_key": "char_187_f1",
+          "original_ref": "sp/187_1.webp"
+        },
+        "2": {
+          "asset_key": "char_187_f2",
+          "original_ref": "sp/187_2.webp"
+        }
+      }
+    },
+    "188": {
+      "element": "wind",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_188_f0",
+          "original_ref": "sp/188_0.webp"
+        },
+        "1": {
+          "asset_key": "char_188_f1",
+          "original_ref": "sp/188_1.webp"
+        },
+        "2": {
+          "asset_key": "char_188_f2",
+          "original_ref": "sp/188_2.webp"
+        }
+      }
+    },
+    "189": {
+      "element": "wind",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_189_f0",
+          "original_ref": "sp/189_0.webp"
+        },
+        "1": {
+          "asset_key": "char_189_f1",
+          "original_ref": "sp/189_1.webp"
+        },
+        "2": {
+          "asset_key": "char_189_f2",
+          "original_ref": "sp/189_2.webp"
+        }
+      }
+    },
+    "190": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_190_f0",
+          "original_ref": "sp/190_0.webp"
+        },
+        "1": {
+          "asset_key": "char_190_f1",
+          "original_ref": "sp/190_1.webp"
+        },
+        "2": {
+          "asset_key": "char_190_f2",
+          "original_ref": "sp/190_2.webp"
+        }
+      }
+    },
+    "191": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_191_f0",
+          "original_ref": "sp/191_0.webp"
+        },
+        "1": {
+          "asset_key": "char_191_f1",
+          "original_ref": "sp/191_1.webp"
+        },
+        "2": {
+          "asset_key": "char_191_f2",
+          "original_ref": "sp/191_2.webp"
+        }
+      }
+    },
+    "192": {
+      "element": "wind",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_192_f0",
+          "original_ref": "sp/192_0.webp"
+        },
+        "1": {
+          "asset_key": "char_192_f1",
+          "original_ref": "sp/192_1.webp"
+        },
+        "2": {
+          "asset_key": "char_192_f2",
+          "original_ref": "sp/192_2.webp"
+        }
+      }
+    },
+    "193": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_193_f0",
+          "original_ref": "sp/193_0.webp"
+        },
+        "1": {
+          "asset_key": "char_193_f1",
+          "original_ref": "sp/193_1.webp"
+        },
+        "2": {
+          "asset_key": "char_193_f2",
+          "original_ref": "sp/193_2.webp"
+        }
+      }
+    },
+    "194": {
+      "element": "wind",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_194_f0",
+          "original_ref": "sp/194_0.webp"
+        },
+        "1": {
+          "asset_key": "char_194_f1",
+          "original_ref": "sp/194_1.webp"
+        },
+        "2": {
+          "asset_key": "char_194_f2",
+          "original_ref": "sp/194_2.webp"
+        }
+      }
+    },
+    "195": {
+      "element": "wind",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_195_f0",
+          "original_ref": "sp/195_0.webp"
+        },
+        "1": {
+          "asset_key": "char_195_f1",
+          "original_ref": "sp/195_1.webp"
+        },
+        "2": {
+          "asset_key": "char_195_f2",
+          "original_ref": "sp/195_2.webp"
+        }
+      }
+    },
+    "196": {
+      "element": "wind",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_196_f0",
+          "original_ref": "sp/196_0.webp"
+        },
+        "1": {
+          "asset_key": "char_196_f1",
+          "original_ref": "sp/196_1.webp"
+        },
+        "2": {
+          "asset_key": "char_196_f2",
+          "original_ref": "sp/196_2.webp"
+        }
+      }
+    },
+    "197": {
+      "element": "wind",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_197_f0",
+          "original_ref": "sp/197_0.webp"
+        },
+        "1": {
+          "asset_key": "char_197_f1",
+          "original_ref": "sp/197_1.webp"
+        },
+        "2": {
+          "asset_key": "char_197_f2",
+          "original_ref": "sp/197_2.webp"
+        }
+      }
+    },
+    "198": {
+      "element": "wind",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_198_f0",
+          "original_ref": "sp/198_0.webp"
+        },
+        "1": {
+          "asset_key": "char_198_f1",
+          "original_ref": "sp/198_1.webp"
+        },
+        "2": {
+          "asset_key": "char_198_f2",
+          "original_ref": "sp/198_2.webp"
+        }
+      }
+    },
+    "199": {
+      "element": "wind",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_199_f0",
+          "original_ref": "sp/199_0.webp"
+        },
+        "1": {
+          "asset_key": "char_199_f1",
+          "original_ref": "sp/199_1.webp"
+        },
+        "2": {
+          "asset_key": "char_199_f2",
+          "original_ref": "sp/199_2.webp"
+        }
+      }
+    },
+    "200": {
+      "element": "wind",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_200_f0",
+          "original_ref": "sp/200_0.webp"
+        },
+        "1": {
+          "asset_key": "char_200_f1",
+          "original_ref": "sp/200_1.webp"
+        },
+        "2": {
+          "asset_key": "char_200_f2",
+          "original_ref": "sp/200_2.webp"
+        }
+      }
+    },
+    "201": {
+      "element": "wind",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_201_f0",
+          "original_ref": "sp/201_0.webp"
+        },
+        "1": {
+          "asset_key": "char_201_f1",
+          "original_ref": "sp/201_1.webp"
+        },
+        "2": {
+          "asset_key": "char_201_f2",
+          "original_ref": "sp/201_2.webp"
+        }
+      }
+    },
+    "202": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_202_f0",
+          "original_ref": "sp/202_0.webp"
+        },
+        "1": {
+          "asset_key": "char_202_f1",
+          "original_ref": "sp/202_1.webp"
+        }
+      }
+    },
+    "203": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_203_f0",
+          "original_ref": "sp/203_0.webp"
+        },
+        "1": {
+          "asset_key": "char_203_f1",
+          "original_ref": "sp/203_1.webp"
+        }
+      }
+    },
+    "204": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_204_f0",
+          "original_ref": "sp/204_0.webp"
+        },
+        "1": {
+          "asset_key": "char_204_f1",
+          "original_ref": "sp/204_1.webp"
+        }
+      }
+    },
+    "205": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_205_f0",
+          "original_ref": "sp/205_0.webp"
+        },
+        "1": {
+          "asset_key": "char_205_f1",
+          "original_ref": "sp/205_1.webp"
+        }
+      }
+    },
+    "206": {
+      "element": "wind",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_206_f0",
+          "original_ref": "sp/206_0.webp"
+        },
+        "1": {
+          "asset_key": "char_206_f1",
+          "original_ref": "sp/206_1.webp"
+        },
+        "2": {
+          "asset_key": "char_206_f2",
+          "original_ref": "sp/206_2.webp"
+        }
+      }
+    },
+    "207": {
+      "element": "wind",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_207_f0",
+          "original_ref": "sp/207_0.webp"
+        },
+        "1": {
+          "asset_key": "char_207_f1",
+          "original_ref": "sp/207_1.webp"
+        },
+        "2": {
+          "asset_key": "char_207_f2",
+          "original_ref": "sp/207_2.webp"
+        }
+      }
+    },
+    "208": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_208_f0",
+          "original_ref": "sp/208_0.webp"
+        },
+        "1": {
+          "asset_key": "char_208_f1",
+          "original_ref": "sp/208_1.webp"
+        },
+        "2": {
+          "asset_key": "char_208_f2",
+          "original_ref": "sp/208_2.webp"
+        }
+      }
+    },
+    "209": {
+      "element": "wind",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_209_f0",
+          "original_ref": "sp/209_0.webp"
+        },
+        "1": {
+          "asset_key": "char_209_f1",
+          "original_ref": "sp/209_1.webp"
+        },
+        "2": {
+          "asset_key": "char_209_f2",
+          "original_ref": "sp/209_2.webp"
+        }
+      }
+    },
+    "210": {
+      "element": "wind",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_210_f0",
+          "original_ref": "sp/210_0.webp"
+        },
+        "1": {
+          "asset_key": "char_210_f1",
+          "original_ref": "sp/210_1.webp"
+        },
+        "2": {
+          "asset_key": "char_210_f2",
+          "original_ref": "sp/210_2.webp"
+        }
+      }
+    },
+    "211": {
+      "element": "wind",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_211_f0",
+          "original_ref": "sp/211_0.webp"
+        },
+        "1": {
+          "asset_key": "char_211_f1",
+          "original_ref": "sp/211_1.webp"
+        },
+        "2": {
+          "asset_key": "char_211_f2",
+          "original_ref": "sp/211_2.webp"
+        }
+      }
+    },
+    "212": {
+      "element": "wind",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_212_f0",
+          "original_ref": "sp/212_0.webp"
+        },
+        "1": {
+          "asset_key": "char_212_f1",
+          "original_ref": "sp/212_1.webp"
+        },
+        "2": {
+          "asset_key": "char_212_f2",
+          "original_ref": "sp/212_2.webp"
+        }
+      }
+    },
+    "213": {
+      "element": "wind",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_213_f0",
+          "original_ref": "sp/213_0.webp"
+        },
+        "1": {
+          "asset_key": "char_213_f1",
+          "original_ref": "sp/213_1.webp"
+        },
+        "2": {
+          "asset_key": "char_213_f2",
+          "original_ref": "sp/213_2.webp"
+        }
+      }
+    },
+    "214": {
+      "element": "wind",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_214_f0",
+          "original_ref": "sp/214_0.webp"
+        },
+        "1": {
+          "asset_key": "char_214_f1",
+          "original_ref": "sp/214_1.webp"
+        },
+        "2": {
+          "asset_key": "char_214_f2",
+          "original_ref": "sp/214_2.webp"
+        }
+      }
+    },
+    "215": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_215_f0",
+          "original_ref": "sp/215_0.webp"
+        },
+        "1": {
+          "asset_key": "char_215_f1",
+          "original_ref": "sp/215_1.webp"
+        }
+      }
+    },
+    "216": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_216_f0",
+          "original_ref": "sp/216_0.webp"
+        },
+        "1": {
+          "asset_key": "char_216_f1",
+          "original_ref": "sp/216_1.webp"
+        }
+      }
+    },
+    "217": {
+      "element": "wind",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_217_f0",
+          "original_ref": "sp/217_0.webp"
+        },
+        "1": {
+          "asset_key": "char_217_f1",
+          "original_ref": "sp/217_1.webp"
+        }
+      }
+    },
+    "218": {
+      "element": "wind",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_218_f0",
+          "original_ref": "sp/218_0.webp"
+        },
+        "1": {
+          "asset_key": "char_218_f1",
+          "original_ref": "sp/218_1.webp"
+        },
+        "2": {
+          "asset_key": "char_218_f2",
+          "original_ref": "sp/218_2.webp"
+        }
+      }
+    },
+    "219": {
+      "element": "water",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_219_f0",
+          "original_ref": "sp/219_0.webp"
+        },
+        "1": {
+          "asset_key": "char_219_f1",
+          "original_ref": "sp/219_1.webp"
+        },
+        "2": {
+          "asset_key": "char_219_f2",
+          "original_ref": "sp/219_2.webp"
+        }
+      }
+    },
+    "220": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_220_f0",
+          "original_ref": "sp/220_0.webp"
+        },
+        "1": {
+          "asset_key": "char_220_f1",
+          "original_ref": "sp/220_1.webp"
+        }
+      }
+    },
+    "221": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_221_f0",
+          "original_ref": "sp/221_0.webp"
+        },
+        "1": {
+          "asset_key": "char_221_f1",
+          "original_ref": "sp/221_1.webp"
+        },
+        "2": {
+          "asset_key": "char_221_f2",
+          "original_ref": "sp/221_2.webp"
+        }
+      }
+    },
+    "222": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_222_f0",
+          "original_ref": "sp/222_0.webp"
+        },
+        "1": {
+          "asset_key": "char_222_f1",
+          "original_ref": "sp/222_1.webp"
+        }
+      }
+    },
+    "223": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_223_f0",
+          "original_ref": "sp/223_0.webp"
+        },
+        "1": {
+          "asset_key": "char_223_f1",
+          "original_ref": "sp/223_1.webp"
+        }
+      }
+    },
+    "224": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_224_f0",
+          "original_ref": "sp/224_0.webp"
+        },
+        "1": {
+          "asset_key": "char_224_f1",
+          "original_ref": "sp/224_1.webp"
+        },
+        "2": {
+          "asset_key": "char_224_f2",
+          "original_ref": "sp/224_2.webp"
+        }
+      }
+    },
+    "225": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_225_f0",
+          "original_ref": "sp/225_0.webp"
+        },
+        "1": {
+          "asset_key": "char_225_f1",
+          "original_ref": "sp/225_1.webp"
+        },
+        "2": {
+          "asset_key": "char_225_f2",
+          "original_ref": "sp/225_2.webp"
+        }
+      }
+    },
+    "226": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_226_f0",
+          "original_ref": "sp/226_0.webp"
+        },
+        "1": {
+          "asset_key": "char_226_f1",
+          "original_ref": "sp/226_1.webp"
+        },
+        "2": {
+          "asset_key": "char_226_f2",
+          "original_ref": "sp/226_2.webp"
+        }
+      }
+    },
+    "227": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_227_f0",
+          "original_ref": "sp/227_0.webp"
+        },
+        "1": {
+          "asset_key": "char_227_f1",
+          "original_ref": "sp/227_1.webp"
+        },
+        "2": {
+          "asset_key": "char_227_f2",
+          "original_ref": "sp/227_2.webp"
+        }
+      }
+    },
+    "228": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_228_f0",
+          "original_ref": "sp/228_0.webp"
+        },
+        "1": {
+          "asset_key": "char_228_f1",
+          "original_ref": "sp/228_1.webp"
+        }
+      }
+    },
+    "229": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_229_f0",
+          "original_ref": "sp/229_0.webp"
+        },
+        "1": {
+          "asset_key": "char_229_f1",
+          "original_ref": "sp/229_1.webp"
+        },
+        "2": {
+          "asset_key": "char_229_f2",
+          "original_ref": "sp/229_2.webp"
+        }
+      }
+    },
+    "230": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_230_f0",
+          "original_ref": "sp/230_0.webp"
+        },
+        "1": {
+          "asset_key": "char_230_f1",
+          "original_ref": "sp/230_1.webp"
+        },
+        "2": {
+          "asset_key": "char_230_f2",
+          "original_ref": "sp/230_2.webp"
+        }
+      }
+    },
+    "231": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_231_f0",
+          "original_ref": "sp/231_0.webp"
+        },
+        "1": {
+          "asset_key": "char_231_f1",
+          "original_ref": "sp/231_1.webp"
+        }
+      }
+    },
+    "232": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_232_f0",
+          "original_ref": "sp/232_0.webp"
+        },
+        "1": {
+          "asset_key": "char_232_f1",
+          "original_ref": "sp/232_1.webp"
+        }
+      }
+    },
+    "233": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_233_f0",
+          "original_ref": "sp/233_0.webp"
+        },
+        "1": {
+          "asset_key": "char_233_f1",
+          "original_ref": "sp/233_1.webp"
+        },
+        "2": {
+          "asset_key": "char_233_f2",
+          "original_ref": "sp/233_2.webp"
+        }
+      }
+    },
+    "234": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_234_f0",
+          "original_ref": "sp/234_0.webp"
+        },
+        "1": {
+          "asset_key": "char_234_f1",
+          "original_ref": "sp/234_1.webp"
+        },
+        "2": {
+          "asset_key": "char_234_f2",
+          "original_ref": "sp/234_2.webp"
+        }
+      }
+    },
+    "235": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_235_f0",
+          "original_ref": "sp/235_0.webp"
+        },
+        "1": {
+          "asset_key": "char_235_f1",
+          "original_ref": "sp/235_1.webp"
+        }
+      }
+    },
+    "236": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_236_f0",
+          "original_ref": "sp/236_0.webp"
+        },
+        "1": {
+          "asset_key": "char_236_f1",
+          "original_ref": "sp/236_1.webp"
+        },
+        "2": {
+          "asset_key": "char_236_f2",
+          "original_ref": "sp/236_2.webp"
+        }
+      }
+    },
+    "237": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_237_f0",
+          "original_ref": "sp/237_0.webp"
+        },
+        "1": {
+          "asset_key": "char_237_f1",
+          "original_ref": "sp/237_1.webp"
+        }
+      }
+    },
+    "238": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_238_f0",
+          "original_ref": "sp/238_0.webp"
+        },
+        "1": {
+          "asset_key": "char_238_f1",
+          "original_ref": "sp/238_1.webp"
+        },
+        "2": {
+          "asset_key": "char_238_f2",
+          "original_ref": "sp/238_2.webp"
+        }
+      }
+    },
+    "239": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_239_f0",
+          "original_ref": "sp/239_0.webp"
+        },
+        "1": {
+          "asset_key": "char_239_f1",
+          "original_ref": "sp/239_1.webp"
+        }
+      }
+    },
+    "240": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_240_f0",
+          "original_ref": "sp/240_0.webp"
+        },
+        "1": {
+          "asset_key": "char_240_f1",
+          "original_ref": "sp/240_1.webp"
+        },
+        "2": {
+          "asset_key": "char_240_f2",
+          "original_ref": "sp/240_2.webp"
+        }
+      }
+    },
+    "241": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_241_f0",
+          "original_ref": "sp/241_0.webp"
+        },
+        "1": {
+          "asset_key": "char_241_f1",
+          "original_ref": "sp/241_1.webp"
+        }
+      }
+    },
+    "242": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_242_f0",
+          "original_ref": "sp/242_0.webp"
+        },
+        "1": {
+          "asset_key": "char_242_f1",
+          "original_ref": "sp/242_1.webp"
+        },
+        "2": {
+          "asset_key": "char_242_f2",
+          "original_ref": "sp/242_2.webp"
+        }
+      }
+    },
+    "243": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_243_f0",
+          "original_ref": "sp/243_0.webp"
+        },
+        "1": {
+          "asset_key": "char_243_f1",
+          "original_ref": "sp/243_1.webp"
+        }
+      }
+    },
+    "244": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_244_f0",
+          "original_ref": "sp/244_0.webp"
+        },
+        "1": {
+          "asset_key": "char_244_f1",
+          "original_ref": "sp/244_1.webp"
+        },
+        "2": {
+          "asset_key": "char_244_f2",
+          "original_ref": "sp/244_2.webp"
+        }
+      }
+    },
+    "245": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_245_f0",
+          "original_ref": "sp/245_0.webp"
+        },
+        "1": {
+          "asset_key": "char_245_f1",
+          "original_ref": "sp/245_1.webp"
+        }
+      }
+    },
+    "246": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_246_f0",
+          "original_ref": "sp/246_0.webp"
+        },
+        "1": {
+          "asset_key": "char_246_f1",
+          "original_ref": "sp/246_1.webp"
+        },
+        "2": {
+          "asset_key": "char_246_f2",
+          "original_ref": "sp/246_2.webp"
+        }
+      }
+    },
+    "247": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_247_f0",
+          "original_ref": "sp/247_0.webp"
+        },
+        "1": {
+          "asset_key": "char_247_f1",
+          "original_ref": "sp/247_1.webp"
+        },
+        "2": {
+          "asset_key": "char_247_f2",
+          "original_ref": "sp/247_2.webp"
+        }
+      }
+    },
+    "248": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_248_f0",
+          "original_ref": "sp/248_0.webp"
+        },
+        "1": {
+          "asset_key": "char_248_f1",
+          "original_ref": "sp/248_1.webp"
+        },
+        "2": {
+          "asset_key": "char_248_f2",
+          "original_ref": "sp/248_2.webp"
+        }
+      }
+    },
+    "249": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_249_f0",
+          "original_ref": "sp/249_0.webp"
+        },
+        "1": {
+          "asset_key": "char_249_f1",
+          "original_ref": "sp/249_1.webp"
+        }
+      }
+    },
+    "250": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_250_f0",
+          "original_ref": "sp/250_0.webp"
+        },
+        "1": {
+          "asset_key": "char_250_f1",
+          "original_ref": "sp/250_1.webp"
+        },
+        "2": {
+          "asset_key": "char_250_f2",
+          "original_ref": "sp/250_2.webp"
+        }
+      }
+    },
+    "251": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_251_f0",
+          "original_ref": "sp/251_0.webp"
+        },
+        "1": {
+          "asset_key": "char_251_f1",
+          "original_ref": "sp/251_1.webp"
+        }
+      }
+    },
+    "252": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_252_f0",
+          "original_ref": "sp/252_0.webp"
+        },
+        "1": {
+          "asset_key": "char_252_f1",
+          "original_ref": "sp/252_1.webp"
+        },
+        "2": {
+          "asset_key": "char_252_f2",
+          "original_ref": "sp/252_2.webp"
+        }
+      }
+    },
+    "253": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_253_f0",
+          "original_ref": "sp/253_0.webp"
+        },
+        "1": {
+          "asset_key": "char_253_f1",
+          "original_ref": "sp/253_1.webp"
+        },
+        "2": {
+          "asset_key": "char_253_f2",
+          "original_ref": "sp/253_2.webp"
+        }
+      }
+    },
+    "254": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_254_f0",
+          "original_ref": "sp/254_0.webp"
+        },
+        "1": {
+          "asset_key": "char_254_f1",
+          "original_ref": "sp/254_1.webp"
+        },
+        "2": {
+          "asset_key": "char_254_f2",
+          "original_ref": "sp/254_2.webp"
+        }
+      }
+    },
+    "255": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_255_f0",
+          "original_ref": "sp/255_0.webp"
+        },
+        "1": {
+          "asset_key": "char_255_f1",
+          "original_ref": "sp/255_1.webp"
+        }
+      }
+    },
+    "256": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_256_f0",
+          "original_ref": "sp/256_0.webp"
+        },
+        "1": {
+          "asset_key": "char_256_f1",
+          "original_ref": "sp/256_1.webp"
+        },
+        "2": {
+          "asset_key": "char_256_f2",
+          "original_ref": "sp/256_2.webp"
+        }
+      }
+    },
+    "257": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_257_f0",
+          "original_ref": "sp/257_0.webp"
+        },
+        "1": {
+          "asset_key": "char_257_f1",
+          "original_ref": "sp/257_1.webp"
+        }
+      }
+    },
+    "258": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_258_f0",
+          "original_ref": "sp/258_0.webp"
+        },
+        "1": {
+          "asset_key": "char_258_f1",
+          "original_ref": "sp/258_1.webp"
+        },
+        "2": {
+          "asset_key": "char_258_f2",
+          "original_ref": "sp/258_2.webp"
+        }
+      }
+    },
+    "259": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_259_f0",
+          "original_ref": "sp/259_0.webp"
+        },
+        "1": {
+          "asset_key": "char_259_f1",
+          "original_ref": "sp/259_1.webp"
+        },
+        "2": {
+          "asset_key": "char_259_f2",
+          "original_ref": "sp/259_2.webp"
+        }
+      }
+    },
+    "260": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_260_f0",
+          "original_ref": "sp/260_0.webp"
+        },
+        "1": {
+          "asset_key": "char_260_f1",
+          "original_ref": "sp/260_1.webp"
+        },
+        "2": {
+          "asset_key": "char_260_f2",
+          "original_ref": "sp/260_2.webp"
+        }
+      }
+    },
+    "261": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_261_f0",
+          "original_ref": "sp/261_0.webp"
+        },
+        "1": {
+          "asset_key": "char_261_f1",
+          "original_ref": "sp/261_1.webp"
+        },
+        "2": {
+          "asset_key": "char_261_f2",
+          "original_ref": "sp/261_2.webp"
+        }
+      }
+    },
+    "262": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_262_f0",
+          "original_ref": "sp/262_0.webp"
+        },
+        "1": {
+          "asset_key": "char_262_f1",
+          "original_ref": "sp/262_1.webp"
+        }
+      }
+    },
+    "263": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_263_f0",
+          "original_ref": "sp/263_0.webp"
+        },
+        "1": {
+          "asset_key": "char_263_f1",
+          "original_ref": "sp/263_1.webp"
+        }
+      }
+    },
+    "264": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_264_f0",
+          "original_ref": "sp/264_0.webp"
+        },
+        "1": {
+          "asset_key": "char_264_f1",
+          "original_ref": "sp/264_1.webp"
+        },
+        "2": {
+          "asset_key": "char_264_f2",
+          "original_ref": "sp/264_2.webp"
+        }
+      }
+    },
+    "265": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_265_f0",
+          "original_ref": "sp/265_0.webp"
+        },
+        "1": {
+          "asset_key": "char_265_f1",
+          "original_ref": "sp/265_1.webp"
+        },
+        "2": {
+          "asset_key": "char_265_f2",
+          "original_ref": "sp/265_2.webp"
+        }
+      }
+    },
+    "266": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_266_f0",
+          "original_ref": "sp/266_0.webp"
+        },
+        "1": {
+          "asset_key": "char_266_f1",
+          "original_ref": "sp/266_1.webp"
+        },
+        "2": {
+          "asset_key": "char_266_f2",
+          "original_ref": "sp/266_2.webp"
+        }
+      }
+    },
+    "267": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_267_f0",
+          "original_ref": "sp/267_0.webp"
+        },
+        "1": {
+          "asset_key": "char_267_f1",
+          "original_ref": "sp/267_1.webp"
+        },
+        "2": {
+          "asset_key": "char_267_f2",
+          "original_ref": "sp/267_2.webp"
+        }
+      }
+    },
+    "268": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_268_f0",
+          "original_ref": "sp/268_0.webp"
+        },
+        "1": {
+          "asset_key": "char_268_f1",
+          "original_ref": "sp/268_1.webp"
+        },
+        "2": {
+          "asset_key": "char_268_f2",
+          "original_ref": "sp/268_2.webp"
+        }
+      }
+    },
+    "269": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_269_f0",
+          "original_ref": "sp/269_0.webp"
+        },
+        "1": {
+          "asset_key": "char_269_f1",
+          "original_ref": "sp/269_1.webp"
+        },
+        "2": {
+          "asset_key": "char_269_f2",
+          "original_ref": "sp/269_2.webp"
+        }
+      }
+    },
+    "270": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_270_f0",
+          "original_ref": "sp/270_0.webp"
+        },
+        "1": {
+          "asset_key": "char_270_f1",
+          "original_ref": "sp/270_1.webp"
+        },
+        "2": {
+          "asset_key": "char_270_f2",
+          "original_ref": "sp/270_2.webp"
+        }
+      }
+    },
+    "271": {
+      "element": "water",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_271_f0",
+          "original_ref": "sp/271_0.webp"
+        },
+        "1": {
+          "asset_key": "char_271_f1",
+          "original_ref": "sp/271_1.webp"
+        },
+        "2": {
+          "asset_key": "char_271_f2",
+          "original_ref": "sp/271_2.webp"
+        }
+      }
+    },
+    "272": {
+      "element": "water",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_272_f0",
+          "original_ref": "sp/272_0.webp"
+        },
+        "1": {
+          "asset_key": "char_272_f1",
+          "original_ref": "sp/272_1.webp"
+        },
+        "2": {
+          "asset_key": "char_272_f2",
+          "original_ref": "sp/272_2.webp"
+        }
+      }
+    },
+    "273": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_273_f0",
+          "original_ref": "sp/273_0.webp"
+        },
+        "1": {
+          "asset_key": "char_273_f1",
+          "original_ref": "sp/273_1.webp"
+        }
+      }
+    },
+    "274": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_274_f0",
+          "original_ref": "sp/274_0.webp"
+        },
+        "1": {
+          "asset_key": "char_274_f1",
+          "original_ref": "sp/274_1.webp"
+        },
+        "2": {
+          "asset_key": "char_274_f2",
+          "original_ref": "sp/274_2.webp"
+        }
+      }
+    },
+    "275": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_275_f0",
+          "original_ref": "sp/275_0.webp"
+        },
+        "1": {
+          "asset_key": "char_275_f1",
+          "original_ref": "sp/275_1.webp"
+        }
+      }
+    },
+    "276": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_276_f0",
+          "original_ref": "sp/276_0.webp"
+        },
+        "1": {
+          "asset_key": "char_276_f1",
+          "original_ref": "sp/276_1.webp"
+        }
+      }
+    },
+    "277": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_277_f0",
+          "original_ref": "sp/277_0.webp"
+        },
+        "1": {
+          "asset_key": "char_277_f1",
+          "original_ref": "sp/277_1.webp"
+        },
+        "2": {
+          "asset_key": "char_277_f2",
+          "original_ref": "sp/277_2.webp"
+        }
+      }
+    },
+    "278": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_278_f0",
+          "original_ref": "sp/278_0.webp"
+        },
+        "1": {
+          "asset_key": "char_278_f1",
+          "original_ref": "sp/278_1.webp"
+        },
+        "2": {
+          "asset_key": "char_278_f2",
+          "original_ref": "sp/278_2.webp"
+        }
+      }
+    },
+    "279": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_279_f0",
+          "original_ref": "sp/279_0.webp"
+        },
+        "1": {
+          "asset_key": "char_279_f1",
+          "original_ref": "sp/279_1.webp"
+        }
+      }
+    },
+    "280": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_280_f0",
+          "original_ref": "sp/280_0.webp"
+        },
+        "1": {
+          "asset_key": "char_280_f1",
+          "original_ref": "sp/280_1.webp"
+        }
+      }
+    },
+    "281": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_281_f0",
+          "original_ref": "sp/281_0.webp"
+        },
+        "1": {
+          "asset_key": "char_281_f1",
+          "original_ref": "sp/281_1.webp"
+        },
+        "2": {
+          "asset_key": "char_281_f2",
+          "original_ref": "sp/281_2.webp"
+        }
+      }
+    },
+    "282": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_282_f0",
+          "original_ref": "sp/282_0.webp"
+        },
+        "1": {
+          "asset_key": "char_282_f1",
+          "original_ref": "sp/282_1.webp"
+        },
+        "2": {
+          "asset_key": "char_282_f2",
+          "original_ref": "sp/282_2.webp"
+        }
+      }
+    },
+    "283": {
+      "element": "water",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_283_f0",
+          "original_ref": "sp/283_0.webp"
+        },
+        "1": {
+          "asset_key": "char_283_f1",
+          "original_ref": "sp/283_1.webp"
+        },
+        "2": {
+          "asset_key": "char_283_f2",
+          "original_ref": "sp/283_2.webp"
+        }
+      }
+    },
+    "284": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_284_f0",
+          "original_ref": "sp/284_0.webp"
+        },
+        "1": {
+          "asset_key": "char_284_f1",
+          "original_ref": "sp/284_1.webp"
+        },
+        "2": {
+          "asset_key": "char_284_f2",
+          "original_ref": "sp/284_2.webp"
+        }
+      }
+    },
+    "285": {
+      "element": "water",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_285_f0",
+          "original_ref": "sp/285_0.webp"
+        },
+        "1": {
+          "asset_key": "char_285_f1",
+          "original_ref": "sp/285_1.webp"
+        },
+        "2": {
+          "asset_key": "char_285_f2",
+          "original_ref": "sp/285_2.webp"
+        }
+      }
+    },
+    "286": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_286_f0",
+          "original_ref": "sp/286_0.webp"
+        },
+        "1": {
+          "asset_key": "char_286_f1",
+          "original_ref": "sp/286_1.webp"
+        },
+        "2": {
+          "asset_key": "char_286_f2",
+          "original_ref": "sp/286_2.webp"
+        }
+      }
+    },
+    "287": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_287_f0",
+          "original_ref": "sp/287_0.webp"
+        },
+        "1": {
+          "asset_key": "char_287_f1",
+          "original_ref": "sp/287_1.webp"
+        },
+        "2": {
+          "asset_key": "char_287_f2",
+          "original_ref": "sp/287_2.webp"
+        }
+      }
+    },
+    "288": {
+      "element": "water",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_288_f0",
+          "original_ref": "sp/288_0.webp"
+        },
+        "1": {
+          "asset_key": "char_288_f1",
+          "original_ref": "sp/288_1.webp"
+        },
+        "2": {
+          "asset_key": "char_288_f2",
+          "original_ref": "sp/288_2.webp"
+        }
+      }
+    },
+    "289": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_289_f0",
+          "original_ref": "sp/289_0.webp"
+        },
+        "1": {
+          "asset_key": "char_289_f1",
+          "original_ref": "sp/289_1.webp"
+        },
+        "2": {
+          "asset_key": "char_289_f2",
+          "original_ref": "sp/289_2.webp"
+        }
+      }
+    },
+    "290": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_290_f0",
+          "original_ref": "sp/290_0.webp"
+        },
+        "1": {
+          "asset_key": "char_290_f1",
+          "original_ref": "sp/290_1.webp"
+        },
+        "2": {
+          "asset_key": "char_290_f2",
+          "original_ref": "sp/290_2.webp"
+        }
+      }
+    },
+    "291": {
+      "element": "water",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_291_f0",
+          "original_ref": "sp/291_0.webp"
+        },
+        "1": {
+          "asset_key": "char_291_f1",
+          "original_ref": "sp/291_1.webp"
+        },
+        "2": {
+          "asset_key": "char_291_f2",
+          "original_ref": "sp/291_2.webp"
+        }
+      }
+    },
+    "292": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_292_f0",
+          "original_ref": "sp/292_0.webp"
+        },
+        "1": {
+          "asset_key": "char_292_f1",
+          "original_ref": "sp/292_1.webp"
+        }
+      }
+    },
+    "293": {
+      "element": "water",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_293_f0",
+          "original_ref": "sp/293_0.webp"
+        },
+        "1": {
+          "asset_key": "char_293_f1",
+          "original_ref": "sp/293_1.webp"
+        },
+        "2": {
+          "asset_key": "char_293_f2",
+          "original_ref": "sp/293_2.webp"
+        }
+      }
+    },
+    "294": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_294_f0",
+          "original_ref": "sp/294_0.webp"
+        },
+        "1": {
+          "asset_key": "char_294_f1",
+          "original_ref": "sp/294_1.webp"
+        }
+      }
+    },
+    "295": {
+      "element": "water",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_295_f0",
+          "original_ref": "sp/295_0.webp"
+        },
+        "1": {
+          "asset_key": "char_295_f1",
+          "original_ref": "sp/295_1.webp"
+        },
+        "2": {
+          "asset_key": "char_295_f2",
+          "original_ref": "sp/295_2.webp"
+        }
+      }
+    },
+    "296": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_296_f0",
+          "original_ref": "sp/296_0.webp"
+        },
+        "1": {
+          "asset_key": "char_296_f1",
+          "original_ref": "sp/296_1.webp"
+        },
+        "2": {
+          "asset_key": "char_296_f2",
+          "original_ref": "sp/296_2.webp"
+        }
+      }
+    },
+    "297": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_297_f0",
+          "original_ref": "sp/297_0.webp"
+        },
+        "1": {
+          "asset_key": "char_297_f1",
+          "original_ref": "sp/297_1.webp"
+        },
+        "2": {
+          "asset_key": "char_297_f2",
+          "original_ref": "sp/297_2.webp"
+        }
+      }
+    },
+    "298": {
+      "element": "water",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_298_f0",
+          "original_ref": "sp/298_0.webp"
+        },
+        "1": {
+          "asset_key": "char_298_f1",
+          "original_ref": "sp/298_1.webp"
+        }
+      }
+    },
+    "299": {
+      "element": "water",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_299_f0",
+          "original_ref": "sp/299_0.webp"
+        },
+        "1": {
+          "asset_key": "char_299_f1",
+          "original_ref": "sp/299_1.webp"
+        },
+        "2": {
+          "asset_key": "char_299_f2",
+          "original_ref": "sp/299_2.webp"
+        }
+      }
+    },
+    "300": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_300_f0",
+          "original_ref": "sp/300_0.webp"
+        },
+        "1": {
+          "asset_key": "char_300_f1",
+          "original_ref": "sp/300_1.webp"
+        }
+      }
+    },
+    "301": {
+      "element": "water",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_301_f0",
+          "original_ref": "sp/301_0.webp"
+        },
+        "1": {
+          "asset_key": "char_301_f1",
+          "original_ref": "sp/301_1.webp"
+        },
+        "2": {
+          "asset_key": "char_301_f2",
+          "original_ref": "sp/301_2.webp"
+        }
+      }
+    },
+    "302": {
+      "element": "water",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_302_f0",
+          "original_ref": "sp/302_0.webp"
+        },
+        "1": {
+          "asset_key": "char_302_f1",
+          "original_ref": "sp/302_1.webp"
+        },
+        "2": {
+          "asset_key": "char_302_f2",
+          "original_ref": "sp/302_2.webp"
+        }
+      }
+    },
+    "303": {
+      "element": "water",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_303_f0",
+          "original_ref": "sp/303_0.webp"
+        },
+        "1": {
+          "asset_key": "char_303_f1",
+          "original_ref": "sp/303_1.webp"
+        },
+        "2": {
+          "asset_key": "char_303_f2",
+          "original_ref": "sp/303_2.webp"
+        }
+      }
+    },
+    "304": {
+      "element": "water",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_304_f0",
+          "original_ref": "sp/304_0.webp"
+        },
+        "1": {
+          "asset_key": "char_304_f1",
+          "original_ref": "sp/304_1.webp"
+        },
+        "2": {
+          "asset_key": "char_304_f2",
+          "original_ref": "sp/304_2.webp"
+        }
+      }
+    },
+    "305": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_305_f0",
+          "original_ref": "sp/305_0.webp"
+        },
+        "1": {
+          "asset_key": "char_305_f1",
+          "original_ref": "sp/305_1.webp"
+        }
+      }
+    },
+    "306": {
+      "element": "water",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_306_f0",
+          "original_ref": "sp/306_0.webp"
+        },
+        "1": {
+          "asset_key": "char_306_f1",
+          "original_ref": "sp/306_1.webp"
+        },
+        "2": {
+          "asset_key": "char_306_f2",
+          "original_ref": "sp/306_2.webp"
+        }
+      }
+    },
+    "307": {
+      "element": "water",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_307_f0",
+          "original_ref": "sp/307_0.webp"
+        },
+        "1": {
+          "asset_key": "char_307_f1",
+          "original_ref": "sp/307_1.webp"
+        },
+        "2": {
+          "asset_key": "char_307_f2",
+          "original_ref": "sp/307_2.webp"
+        }
+      }
+    },
+    "308": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_308_f0",
+          "original_ref": "sp/308_0.webp"
+        },
+        "1": {
+          "asset_key": "char_308_f1",
+          "original_ref": "sp/308_1.webp"
+        }
+      }
+    },
+    "309": {
+      "element": "water",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_309_f0",
+          "original_ref": "sp/309_0.webp"
+        },
+        "1": {
+          "asset_key": "char_309_f1",
+          "original_ref": "sp/309_1.webp"
+        },
+        "2": {
+          "asset_key": "char_309_f2",
+          "original_ref": "sp/309_2.webp"
+        }
+      }
+    },
+    "310": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_310_f0",
+          "original_ref": "sp/310_0.webp"
+        },
+        "1": {
+          "asset_key": "char_310_f1",
+          "original_ref": "sp/310_1.webp"
+        }
+      }
+    },
+    "311": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_311_f0",
+          "original_ref": "sp/311_0.webp"
+        },
+        "1": {
+          "asset_key": "char_311_f1",
+          "original_ref": "sp/311_1.webp"
+        },
+        "2": {
+          "asset_key": "char_311_f2",
+          "original_ref": "sp/311_2.webp"
+        }
+      }
+    },
+    "312": {
+      "element": "water",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_312_f0",
+          "original_ref": "sp/312_0.webp"
+        },
+        "1": {
+          "asset_key": "char_312_f1",
+          "original_ref": "sp/312_1.webp"
+        },
+        "2": {
+          "asset_key": "char_312_f2",
+          "original_ref": "sp/312_2.webp"
+        }
+      }
+    },
+    "313": {
+      "element": "water",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_313_f0",
+          "original_ref": "sp/313_0.webp"
+        },
+        "1": {
+          "asset_key": "char_313_f1",
+          "original_ref": "sp/313_1.webp"
+        },
+        "2": {
+          "asset_key": "char_313_f2",
+          "original_ref": "sp/313_2.webp"
+        }
+      }
+    },
+    "314": {
+      "element": "water",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_314_f0",
+          "original_ref": "sp/314_0.webp"
+        },
+        "1": {
+          "asset_key": "char_314_f1",
+          "original_ref": "sp/314_1.webp"
+        },
+        "2": {
+          "asset_key": "char_314_f2",
+          "original_ref": "sp/314_2.webp"
+        }
+      }
+    },
+    "315": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_315_f0",
+          "original_ref": "sp/315_0.webp"
+        },
+        "1": {
+          "asset_key": "char_315_f1",
+          "original_ref": "sp/315_1.webp"
+        }
+      }
+    },
+    "316": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_316_f0",
+          "original_ref": "sp/316_0.webp"
+        },
+        "1": {
+          "asset_key": "char_316_f1",
+          "original_ref": "sp/316_1.webp"
+        }
+      }
+    },
+    "317": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_317_f0",
+          "original_ref": "sp/317_0.webp"
+        },
+        "1": {
+          "asset_key": "char_317_f1",
+          "original_ref": "sp/317_1.webp"
+        }
+      }
+    },
+    "318": {
+      "element": "water",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_318_f0",
+          "original_ref": "sp/318_0.webp"
+        },
+        "1": {
+          "asset_key": "char_318_f1",
+          "original_ref": "sp/318_1.webp"
+        }
+      }
+    },
+    "319": {
+      "element": "water",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_319_f0",
+          "original_ref": "sp/319_0.webp"
+        },
+        "1": {
+          "asset_key": "char_319_f1",
+          "original_ref": "sp/319_1.webp"
+        },
+        "2": {
+          "asset_key": "char_319_f2",
+          "original_ref": "sp/319_2.webp"
+        }
+      }
+    },
+    "320": {
+      "element": "water",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_320_f0",
+          "original_ref": "sp/320_0.webp"
+        },
+        "1": {
+          "asset_key": "char_320_f1",
+          "original_ref": "sp/320_1.webp"
+        },
+        "2": {
+          "asset_key": "char_320_f2",
+          "original_ref": "sp/320_2.webp"
+        }
+      }
+    },
+    "321": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_321_f0",
+          "original_ref": "sp/321_0.webp"
+        },
+        "1": {
+          "asset_key": "char_321_f1",
+          "original_ref": "sp/321_1.webp"
+        }
+      }
+    },
+    "322": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_322_f0",
+          "original_ref": "sp/322_0.webp"
+        },
+        "1": {
+          "asset_key": "char_322_f1",
+          "original_ref": "sp/322_1.webp"
+        }
+      }
+    },
+    "323": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_323_f0",
+          "original_ref": "sp/323_0.webp"
+        },
+        "1": {
+          "asset_key": "char_323_f1",
+          "original_ref": "sp/323_1.webp"
+        },
+        "2": {
+          "asset_key": "char_323_f2",
+          "original_ref": "sp/323_2.webp"
+        }
+      }
+    },
+    "324": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_324_f0",
+          "original_ref": "sp/324_0.webp"
+        },
+        "1": {
+          "asset_key": "char_324_f1",
+          "original_ref": "sp/324_1.webp"
+        },
+        "2": {
+          "asset_key": "char_324_f2",
+          "original_ref": "sp/324_2.webp"
+        }
+      }
+    },
+    "325": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_325_f0",
+          "original_ref": "sp/325_0.webp"
+        },
+        "1": {
+          "asset_key": "char_325_f1",
+          "original_ref": "sp/325_1.webp"
+        },
+        "2": {
+          "asset_key": "char_325_f2",
+          "original_ref": "sp/325_2.webp"
+        }
+      }
+    },
+    "326": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_326_f0",
+          "original_ref": "sp/326_0.webp"
+        },
+        "1": {
+          "asset_key": "char_326_f1",
+          "original_ref": "sp/326_1.webp"
+        },
+        "2": {
+          "asset_key": "char_326_f2",
+          "original_ref": "sp/326_2.webp"
+        }
+      }
+    },
+    "327": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_327_f0",
+          "original_ref": "sp/327_0.webp"
+        },
+        "1": {
+          "asset_key": "char_327_f1",
+          "original_ref": "sp/327_1.webp"
+        }
+      }
+    },
+    "328": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_328_f0",
+          "original_ref": "sp/328_0.webp"
+        },
+        "1": {
+          "asset_key": "char_328_f1",
+          "original_ref": "sp/328_1.webp"
+        },
+        "2": {
+          "asset_key": "char_328_f2",
+          "original_ref": "sp/328_2.webp"
+        }
+      }
+    },
+    "329": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_329_f0",
+          "original_ref": "sp/329_0.webp"
+        },
+        "1": {
+          "asset_key": "char_329_f1",
+          "original_ref": "sp/329_1.webp"
+        },
+        "2": {
+          "asset_key": "char_329_f2",
+          "original_ref": "sp/329_2.webp"
+        }
+      }
+    },
+    "330": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_330_f0",
+          "original_ref": "sp/330_0.webp"
+        },
+        "1": {
+          "asset_key": "char_330_f1",
+          "original_ref": "sp/330_1.webp"
+        }
+      }
+    },
+    "331": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_331_f0",
+          "original_ref": "sp/331_0.webp"
+        },
+        "1": {
+          "asset_key": "char_331_f1",
+          "original_ref": "sp/331_1.webp"
+        },
+        "2": {
+          "asset_key": "char_331_f2",
+          "original_ref": "sp/331_2.webp"
+        }
+      }
+    },
+    "332": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_332_f0",
+          "original_ref": "sp/332_0.webp"
+        },
+        "1": {
+          "asset_key": "char_332_f1",
+          "original_ref": "sp/332_1.webp"
+        },
+        "2": {
+          "asset_key": "char_332_f2",
+          "original_ref": "sp/332_2.webp"
+        }
+      }
+    },
+    "333": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_333_f0",
+          "original_ref": "sp/333_0.webp"
+        },
+        "1": {
+          "asset_key": "char_333_f1",
+          "original_ref": "sp/333_1.webp"
+        }
+      }
+    },
+    "334": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_334_f0",
+          "original_ref": "sp/334_0.webp"
+        },
+        "1": {
+          "asset_key": "char_334_f1",
+          "original_ref": "sp/334_1.webp"
+        }
+      }
+    },
+    "335": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_335_f0",
+          "original_ref": "sp/335_0.webp"
+        },
+        "1": {
+          "asset_key": "char_335_f1",
+          "original_ref": "sp/335_1.webp"
+        }
+      }
+    },
+    "336": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_336_f0",
+          "original_ref": "sp/336_0.webp"
+        },
+        "1": {
+          "asset_key": "char_336_f1",
+          "original_ref": "sp/336_1.webp"
+        },
+        "2": {
+          "asset_key": "char_336_f2",
+          "original_ref": "sp/336_2.webp"
+        }
+      }
+    },
+    "337": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_337_f0",
+          "original_ref": "sp/337_0.webp"
+        },
+        "1": {
+          "asset_key": "char_337_f1",
+          "original_ref": "sp/337_1.webp"
+        },
+        "2": {
+          "asset_key": "char_337_f2",
+          "original_ref": "sp/337_2.webp"
+        }
+      }
+    },
+    "338": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_338_f0",
+          "original_ref": "sp/338_0.webp"
+        },
+        "1": {
+          "asset_key": "char_338_f1",
+          "original_ref": "sp/338_1.webp"
+        },
+        "2": {
+          "asset_key": "char_338_f2",
+          "original_ref": "sp/338_2.webp"
+        }
+      }
+    },
+    "339": {
+      "element": "earth",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_339_f0",
+          "original_ref": "sp/339_0.webp"
+        },
+        "1": {
+          "asset_key": "char_339_f1",
+          "original_ref": "sp/339_1.webp"
+        },
+        "2": {
+          "asset_key": "char_339_f2",
+          "original_ref": "sp/339_2.webp"
+        }
+      }
+    },
+    "340": {
+      "element": "earth",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_340_f0",
+          "original_ref": "sp/340_0.webp"
+        },
+        "1": {
+          "asset_key": "char_340_f1",
+          "original_ref": "sp/340_1.webp"
+        },
+        "2": {
+          "asset_key": "char_340_f2",
+          "original_ref": "sp/340_2.webp"
+        }
+      }
+    },
+    "341": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_341_f0",
+          "original_ref": "sp/341_0.webp"
+        },
+        "1": {
+          "asset_key": "char_341_f1",
+          "original_ref": "sp/341_1.webp"
+        },
+        "2": {
+          "asset_key": "char_341_f2",
+          "original_ref": "sp/341_2.webp"
+        }
+      }
+    },
+    "342": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_342_f0",
+          "original_ref": "sp/342_0.webp"
+        },
+        "1": {
+          "asset_key": "char_342_f1",
+          "original_ref": "sp/342_1.webp"
+        }
+      }
+    },
+    "343": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_343_f0",
+          "original_ref": "sp/343_0.webp"
+        },
+        "1": {
+          "asset_key": "char_343_f1",
+          "original_ref": "sp/343_1.webp"
+        },
+        "2": {
+          "asset_key": "char_343_f2",
+          "original_ref": "sp/343_2.webp"
+        }
+      }
+    },
+    "344": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_344_f0",
+          "original_ref": "sp/344_0.webp"
+        },
+        "1": {
+          "asset_key": "char_344_f1",
+          "original_ref": "sp/344_1.webp"
+        }
+      }
+    },
+    "345": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_345_f0",
+          "original_ref": "sp/345_0.webp"
+        },
+        "1": {
+          "asset_key": "char_345_f1",
+          "original_ref": "sp/345_1.webp"
+        }
+      }
+    },
+    "346": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_346_f0",
+          "original_ref": "sp/346_0.webp"
+        },
+        "1": {
+          "asset_key": "char_346_f1",
+          "original_ref": "sp/346_1.webp"
+        },
+        "2": {
+          "asset_key": "char_346_f2",
+          "original_ref": "sp/346_2.webp"
+        }
+      }
+    },
+    "347": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_347_f0",
+          "original_ref": "sp/347_0.webp"
+        },
+        "1": {
+          "asset_key": "char_347_f1",
+          "original_ref": "sp/347_1.webp"
+        }
+      }
+    },
+    "348": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_348_f0",
+          "original_ref": "sp/348_0.webp"
+        },
+        "1": {
+          "asset_key": "char_348_f1",
+          "original_ref": "sp/348_1.webp"
+        }
+      }
+    },
+    "349": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_349_f0",
+          "original_ref": "sp/349_0.webp"
+        },
+        "1": {
+          "asset_key": "char_349_f1",
+          "original_ref": "sp/349_1.webp"
+        },
+        "2": {
+          "asset_key": "char_349_f2",
+          "original_ref": "sp/349_2.webp"
+        }
+      }
+    },
+    "350": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_350_f0",
+          "original_ref": "sp/350_0.webp"
+        },
+        "1": {
+          "asset_key": "char_350_f1",
+          "original_ref": "sp/350_1.webp"
+        },
+        "2": {
+          "asset_key": "char_350_f2",
+          "original_ref": "sp/350_2.webp"
+        }
+      }
+    },
+    "351": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_351_f0",
+          "original_ref": "sp/351_0.webp"
+        },
+        "1": {
+          "asset_key": "char_351_f1",
+          "original_ref": "sp/351_1.webp"
+        },
+        "2": {
+          "asset_key": "char_351_f2",
+          "original_ref": "sp/351_2.webp"
+        }
+      }
+    },
+    "352": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_352_f0",
+          "original_ref": "sp/352_0.webp"
+        },
+        "1": {
+          "asset_key": "char_352_f1",
+          "original_ref": "sp/352_1.webp"
+        }
+      }
+    },
+    "353": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_353_f0",
+          "original_ref": "sp/353_0.webp"
+        },
+        "1": {
+          "asset_key": "char_353_f1",
+          "original_ref": "sp/353_1.webp"
+        },
+        "2": {
+          "asset_key": "char_353_f2",
+          "original_ref": "sp/353_2.webp"
+        }
+      }
+    },
+    "354": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_354_f0",
+          "original_ref": "sp/354_0.webp"
+        },
+        "1": {
+          "asset_key": "char_354_f1",
+          "original_ref": "sp/354_1.webp"
+        }
+      }
+    },
+    "355": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_355_f0",
+          "original_ref": "sp/355_0.webp"
+        },
+        "1": {
+          "asset_key": "char_355_f1",
+          "original_ref": "sp/355_1.webp"
+        }
+      }
+    },
+    "356": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_356_f0",
+          "original_ref": "sp/356_0.webp"
+        },
+        "1": {
+          "asset_key": "char_356_f1",
+          "original_ref": "sp/356_1.webp"
+        }
+      }
+    },
+    "357": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_357_f0",
+          "original_ref": "sp/357_0.webp"
+        },
+        "1": {
+          "asset_key": "char_357_f1",
+          "original_ref": "sp/357_1.webp"
+        }
+      }
+    },
+    "358": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_358_f0",
+          "original_ref": "sp/358_0.webp"
+        },
+        "1": {
+          "asset_key": "char_358_f1",
+          "original_ref": "sp/358_1.webp"
+        },
+        "2": {
+          "asset_key": "char_358_f2",
+          "original_ref": "sp/358_2.webp"
+        }
+      }
+    },
+    "359": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_359_f0",
+          "original_ref": "sp/359_0.webp"
+        },
+        "1": {
+          "asset_key": "char_359_f1",
+          "original_ref": "sp/359_1.webp"
+        },
+        "2": {
+          "asset_key": "char_359_f2",
+          "original_ref": "sp/359_2.webp"
+        }
+      }
+    },
+    "360": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_360_f0",
+          "original_ref": "sp/360_0.webp"
+        },
+        "1": {
+          "asset_key": "char_360_f1",
+          "original_ref": "sp/360_1.webp"
+        }
+      }
+    },
+    "361": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_361_f0",
+          "original_ref": "sp/361_0.webp"
+        },
+        "1": {
+          "asset_key": "char_361_f1",
+          "original_ref": "sp/361_1.webp"
+        },
+        "2": {
+          "asset_key": "char_361_f2",
+          "original_ref": "sp/361_2.webp"
+        }
+      }
+    },
+    "362": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_362_f0",
+          "original_ref": "sp/362_0.webp"
+        },
+        "1": {
+          "asset_key": "char_362_f1",
+          "original_ref": "sp/362_1.webp"
+        },
+        "2": {
+          "asset_key": "char_362_f2",
+          "original_ref": "sp/362_2.webp"
+        }
+      }
+    },
+    "363": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_363_f0",
+          "original_ref": "sp/363_0.webp"
+        },
+        "1": {
+          "asset_key": "char_363_f1",
+          "original_ref": "sp/363_1.webp"
+        },
+        "2": {
+          "asset_key": "char_363_f2",
+          "original_ref": "sp/363_2.webp"
+        }
+      }
+    },
+    "364": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_364_f0",
+          "original_ref": "sp/364_0.webp"
+        },
+        "1": {
+          "asset_key": "char_364_f1",
+          "original_ref": "sp/364_1.webp"
+        },
+        "2": {
+          "asset_key": "char_364_f2",
+          "original_ref": "sp/364_2.webp"
+        }
+      }
+    },
+    "365": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_365_f0",
+          "original_ref": "sp/365_0.webp"
+        },
+        "1": {
+          "asset_key": "char_365_f1",
+          "original_ref": "sp/365_1.webp"
+        },
+        "2": {
+          "asset_key": "char_365_f2",
+          "original_ref": "sp/365_2.webp"
+        }
+      }
+    },
+    "366": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_366_f0",
+          "original_ref": "sp/366_0.webp"
+        },
+        "1": {
+          "asset_key": "char_366_f1",
+          "original_ref": "sp/366_1.webp"
+        },
+        "2": {
+          "asset_key": "char_366_f2",
+          "original_ref": "sp/366_2.webp"
+        }
+      }
+    },
+    "367": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_367_f0",
+          "original_ref": "sp/367_0.webp"
+        },
+        "1": {
+          "asset_key": "char_367_f1",
+          "original_ref": "sp/367_1.webp"
+        },
+        "2": {
+          "asset_key": "char_367_f2",
+          "original_ref": "sp/367_2.webp"
+        }
+      }
+    },
+    "368": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_368_f0",
+          "original_ref": "sp/368_0.webp"
+        },
+        "1": {
+          "asset_key": "char_368_f1",
+          "original_ref": "sp/368_1.webp"
+        }
+      }
+    },
+    "369": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_369_f0",
+          "original_ref": "sp/369_0.webp"
+        },
+        "1": {
+          "asset_key": "char_369_f1",
+          "original_ref": "sp/369_1.webp"
+        }
+      }
+    },
+    "370": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_370_f0",
+          "original_ref": "sp/370_0.webp"
+        },
+        "1": {
+          "asset_key": "char_370_f1",
+          "original_ref": "sp/370_1.webp"
+        },
+        "2": {
+          "asset_key": "char_370_f2",
+          "original_ref": "sp/370_2.webp"
+        }
+      }
+    },
+    "371": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_371_f0",
+          "original_ref": "sp/371_0.webp"
+        },
+        "1": {
+          "asset_key": "char_371_f1",
+          "original_ref": "sp/371_1.webp"
+        },
+        "2": {
+          "asset_key": "char_371_f2",
+          "original_ref": "sp/371_2.webp"
+        }
+      }
+    },
+    "372": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_372_f0",
+          "original_ref": "sp/372_0.webp"
+        },
+        "1": {
+          "asset_key": "char_372_f1",
+          "original_ref": "sp/372_1.webp"
+        }
+      }
+    },
+    "373": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_373_f0",
+          "original_ref": "sp/373_0.webp"
+        },
+        "1": {
+          "asset_key": "char_373_f1",
+          "original_ref": "sp/373_1.webp"
+        }
+      }
+    },
+    "374": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_374_f0",
+          "original_ref": "sp/374_0.webp"
+        },
+        "1": {
+          "asset_key": "char_374_f1",
+          "original_ref": "sp/374_1.webp"
+        }
+      }
+    },
+    "375": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_375_f0",
+          "original_ref": "sp/375_0.webp"
+        },
+        "1": {
+          "asset_key": "char_375_f1",
+          "original_ref": "sp/375_1.webp"
+        }
+      }
+    },
+    "376": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_376_f0",
+          "original_ref": "sp/376_0.webp"
+        },
+        "1": {
+          "asset_key": "char_376_f1",
+          "original_ref": "sp/376_1.webp"
+        },
+        "2": {
+          "asset_key": "char_376_f2",
+          "original_ref": "sp/376_2.webp"
+        }
+      }
+    },
+    "377": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_377_f0",
+          "original_ref": "sp/377_0.webp"
+        },
+        "1": {
+          "asset_key": "char_377_f1",
+          "original_ref": "sp/377_1.webp"
+        },
+        "2": {
+          "asset_key": "char_377_f2",
+          "original_ref": "sp/377_2.webp"
+        }
+      }
+    },
+    "378": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_378_f0",
+          "original_ref": "sp/378_0.webp"
+        },
+        "1": {
+          "asset_key": "char_378_f1",
+          "original_ref": "sp/378_1.webp"
+        },
+        "2": {
+          "asset_key": "char_378_f2",
+          "original_ref": "sp/378_2.webp"
+        }
+      }
+    },
+    "379": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_379_f0",
+          "original_ref": "sp/379_0.webp"
+        },
+        "1": {
+          "asset_key": "char_379_f1",
+          "original_ref": "sp/379_1.webp"
+        },
+        "2": {
+          "asset_key": "char_379_f2",
+          "original_ref": "sp/379_2.webp"
+        }
+      }
+    },
+    "380": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_380_f0",
+          "original_ref": "sp/380_0.webp"
+        },
+        "1": {
+          "asset_key": "char_380_f1",
+          "original_ref": "sp/380_1.webp"
+        }
+      }
+    },
+    "381": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_381_f0",
+          "original_ref": "sp/381_0.webp"
+        },
+        "1": {
+          "asset_key": "char_381_f1",
+          "original_ref": "sp/381_1.webp"
+        },
+        "2": {
+          "asset_key": "char_381_f2",
+          "original_ref": "sp/381_2.webp"
+        }
+      }
+    },
+    "382": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_382_f0",
+          "original_ref": "sp/382_0.webp"
+        },
+        "1": {
+          "asset_key": "char_382_f1",
+          "original_ref": "sp/382_1.webp"
+        },
+        "2": {
+          "asset_key": "char_382_f2",
+          "original_ref": "sp/382_2.webp"
+        }
+      }
+    },
+    "383": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_383_f0",
+          "original_ref": "sp/383_0.webp"
+        },
+        "1": {
+          "asset_key": "char_383_f1",
+          "original_ref": "sp/383_1.webp"
+        },
+        "2": {
+          "asset_key": "char_383_f2",
+          "original_ref": "sp/383_2.webp"
+        }
+      }
+    },
+    "384": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_384_f0",
+          "original_ref": "sp/384_0.webp"
+        },
+        "1": {
+          "asset_key": "char_384_f1",
+          "original_ref": "sp/384_1.webp"
+        },
+        "2": {
+          "asset_key": "char_384_f2",
+          "original_ref": "sp/384_2.webp"
+        }
+      }
+    },
+    "385": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_385_f0",
+          "original_ref": "sp/385_0.webp"
+        },
+        "1": {
+          "asset_key": "char_385_f1",
+          "original_ref": "sp/385_1.webp"
+        },
+        "2": {
+          "asset_key": "char_385_f2",
+          "original_ref": "sp/385_2.webp"
+        }
+      }
+    },
+    "386": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_386_f0",
+          "original_ref": "sp/386_0.webp"
+        },
+        "1": {
+          "asset_key": "char_386_f1",
+          "original_ref": "sp/386_1.webp"
+        }
+      }
+    },
+    "387": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_387_f0",
+          "original_ref": "sp/387_0.webp"
+        },
+        "1": {
+          "asset_key": "char_387_f1",
+          "original_ref": "sp/387_1.webp"
+        }
+      }
+    },
+    "388": {
+      "element": "earth",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_388_f0",
+          "original_ref": "sp/388_0.webp"
+        },
+        "1": {
+          "asset_key": "char_388_f1",
+          "original_ref": "sp/388_1.webp"
+        },
+        "2": {
+          "asset_key": "char_388_f2",
+          "original_ref": "sp/388_2.webp"
+        }
+      }
+    },
+    "389": {
+      "element": "earth",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_389_f0",
+          "original_ref": "sp/389_0.webp"
+        },
+        "1": {
+          "asset_key": "char_389_f1",
+          "original_ref": "sp/389_1.webp"
+        },
+        "2": {
+          "asset_key": "char_389_f2",
+          "original_ref": "sp/389_2.webp"
+        }
+      }
+    },
+    "390": {
+      "element": "earth",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_390_f0",
+          "original_ref": "sp/390_0.webp"
+        },
+        "1": {
+          "asset_key": "char_390_f1",
+          "original_ref": "sp/390_1.webp"
+        },
+        "2": {
+          "asset_key": "char_390_f2",
+          "original_ref": "sp/390_2.webp"
+        }
+      }
+    },
+    "391": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_391_f0",
+          "original_ref": "sp/391_0.webp"
+        },
+        "1": {
+          "asset_key": "char_391_f1",
+          "original_ref": "sp/391_1.webp"
+        },
+        "2": {
+          "asset_key": "char_391_f2",
+          "original_ref": "sp/391_2.webp"
+        }
+      }
+    },
+    "392": {
+      "element": "earth",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_392_f0",
+          "original_ref": "sp/392_0.webp"
+        },
+        "1": {
+          "asset_key": "char_392_f1",
+          "original_ref": "sp/392_1.webp"
+        },
+        "2": {
+          "asset_key": "char_392_f2",
+          "original_ref": "sp/392_2.webp"
+        }
+      }
+    },
+    "393": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_393_f0",
+          "original_ref": "sp/393_0.webp"
+        },
+        "1": {
+          "asset_key": "char_393_f1",
+          "original_ref": "sp/393_1.webp"
+        },
+        "2": {
+          "asset_key": "char_393_f2",
+          "original_ref": "sp/393_2.webp"
+        }
+      }
+    },
+    "394": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_394_f0",
+          "original_ref": "sp/394_0.webp"
+        },
+        "1": {
+          "asset_key": "char_394_f1",
+          "original_ref": "sp/394_1.webp"
+        },
+        "2": {
+          "asset_key": "char_394_f2",
+          "original_ref": "sp/394_2.webp"
+        }
+      }
+    },
+    "395": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_395_f0",
+          "original_ref": "sp/395_0.webp"
+        },
+        "1": {
+          "asset_key": "char_395_f1",
+          "original_ref": "sp/395_1.webp"
+        },
+        "2": {
+          "asset_key": "char_395_f2",
+          "original_ref": "sp/395_2.webp"
+        }
+      }
+    },
+    "396": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_396_f0",
+          "original_ref": "sp/396_0.webp"
+        },
+        "1": {
+          "asset_key": "char_396_f1",
+          "original_ref": "sp/396_1.webp"
+        }
+      }
+    },
+    "397": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_397_f0",
+          "original_ref": "sp/397_0.webp"
+        },
+        "1": {
+          "asset_key": "char_397_f1",
+          "original_ref": "sp/397_1.webp"
+        },
+        "2": {
+          "asset_key": "char_397_f2",
+          "original_ref": "sp/397_2.webp"
+        }
+      }
+    },
+    "398": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_398_f0",
+          "original_ref": "sp/398_0.webp"
+        },
+        "1": {
+          "asset_key": "char_398_f1",
+          "original_ref": "sp/398_1.webp"
+        }
+      }
+    },
+    "399": {
+      "element": "earth",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_399_f0",
+          "original_ref": "sp/399_0.webp"
+        },
+        "1": {
+          "asset_key": "char_399_f1",
+          "original_ref": "sp/399_1.webp"
+        },
+        "2": {
+          "asset_key": "char_399_f2",
+          "original_ref": "sp/399_2.webp"
+        }
+      }
+    },
+    "400": {
+      "element": "earth",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_400_f0",
+          "original_ref": "sp/400_0.webp"
+        },
+        "1": {
+          "asset_key": "char_400_f1",
+          "original_ref": "sp/400_1.webp"
+        },
+        "2": {
+          "asset_key": "char_400_f2",
+          "original_ref": "sp/400_2.webp"
+        }
+      }
+    },
+    "401": {
+      "element": "earth",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_401_f0",
+          "original_ref": "sp/401_0.webp"
+        },
+        "1": {
+          "asset_key": "char_401_f1",
+          "original_ref": "sp/401_1.webp"
+        },
+        "2": {
+          "asset_key": "char_401_f2",
+          "original_ref": "sp/401_2.webp"
+        }
+      }
+    },
+    "402": {
+      "element": "earth",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_402_f0",
+          "original_ref": "sp/402_0.webp"
+        },
+        "1": {
+          "asset_key": "char_402_f1",
+          "original_ref": "sp/402_1.webp"
+        },
+        "2": {
+          "asset_key": "char_402_f2",
+          "original_ref": "sp/402_2.webp"
+        }
+      }
+    },
+    "403": {
+      "element": "earth",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_403_f0",
+          "original_ref": "sp/403_0.webp"
+        },
+        "1": {
+          "asset_key": "char_403_f1",
+          "original_ref": "sp/403_1.webp"
+        },
+        "2": {
+          "asset_key": "char_403_f2",
+          "original_ref": "sp/403_2.webp"
+        }
+      }
+    },
+    "404": {
+      "element": "earth",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_404_f0",
+          "original_ref": "sp/404_0.webp"
+        },
+        "1": {
+          "asset_key": "char_404_f1",
+          "original_ref": "sp/404_1.webp"
+        },
+        "2": {
+          "asset_key": "char_404_f2",
+          "original_ref": "sp/404_2.webp"
+        }
+      }
+    },
+    "405": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_405_f0",
+          "original_ref": "sp/405_0.webp"
+        },
+        "1": {
+          "asset_key": "char_405_f1",
+          "original_ref": "sp/405_1.webp"
+        }
+      }
+    },
+    "406": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_406_f0",
+          "original_ref": "sp/406_0.webp"
+        },
+        "1": {
+          "asset_key": "char_406_f1",
+          "original_ref": "sp/406_1.webp"
+        }
+      }
+    },
+    "407": {
+      "element": "earth",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_407_f0",
+          "original_ref": "sp/407_0.webp"
+        },
+        "1": {
+          "asset_key": "char_407_f1",
+          "original_ref": "sp/407_1.webp"
+        },
+        "2": {
+          "asset_key": "char_407_f2",
+          "original_ref": "sp/407_2.webp"
+        }
+      }
+    },
+    "408": {
+      "element": "earth",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_408_f0",
+          "original_ref": "sp/408_0.webp"
+        },
+        "1": {
+          "asset_key": "char_408_f1",
+          "original_ref": "sp/408_1.webp"
+        },
+        "2": {
+          "asset_key": "char_408_f2",
+          "original_ref": "sp/408_2.webp"
+        }
+      }
+    },
+    "409": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_409_f0",
+          "original_ref": "sp/409_0.webp"
+        },
+        "1": {
+          "asset_key": "char_409_f1",
+          "original_ref": "sp/409_1.webp"
+        }
+      }
+    },
+    "410": {
+      "element": "earth",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_410_f0",
+          "original_ref": "sp/410_0.webp"
+        },
+        "1": {
+          "asset_key": "char_410_f1",
+          "original_ref": "sp/410_1.webp"
+        },
+        "2": {
+          "asset_key": "char_410_f2",
+          "original_ref": "sp/410_2.webp"
+        }
+      }
+    },
+    "411": {
+      "element": "earth",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_411_f0",
+          "original_ref": "sp/411_0.webp"
+        },
+        "1": {
+          "asset_key": "char_411_f1",
+          "original_ref": "sp/411_1.webp"
+        },
+        "2": {
+          "asset_key": "char_411_f2",
+          "original_ref": "sp/411_2.webp"
+        }
+      }
+    },
+    "412": {
+      "element": "earth",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_412_f0",
+          "original_ref": "sp/412_0.webp"
+        },
+        "1": {
+          "asset_key": "char_412_f1",
+          "original_ref": "sp/412_1.webp"
+        },
+        "2": {
+          "asset_key": "char_412_f2",
+          "original_ref": "sp/412_2.webp"
+        }
+      }
+    },
+    "413": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_413_f0",
+          "original_ref": "sp/413_0.webp"
+        },
+        "1": {
+          "asset_key": "char_413_f1",
+          "original_ref": "sp/413_1.webp"
+        },
+        "2": {
+          "asset_key": "char_413_f2",
+          "original_ref": "sp/413_2.webp"
+        }
+      }
+    },
+    "414": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_414_f0",
+          "original_ref": "sp/414_0.webp"
+        },
+        "1": {
+          "asset_key": "char_414_f1",
+          "original_ref": "sp/414_1.webp"
+        }
+      }
+    },
+    "415": {
+      "element": "earth",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_415_f0",
+          "original_ref": "sp/415_0.webp"
+        },
+        "1": {
+          "asset_key": "char_415_f1",
+          "original_ref": "sp/415_1.webp"
+        },
+        "2": {
+          "asset_key": "char_415_f2",
+          "original_ref": "sp/415_2.webp"
+        }
+      }
+    },
+    "416": {
+      "element": "earth",
+      "rarity": "SR",
+      "forms": {
+        "0": {
+          "asset_key": "char_416_f0",
+          "original_ref": "sp/416_0.webp"
+        },
+        "1": {
+          "asset_key": "char_416_f1",
+          "original_ref": "sp/416_1.webp"
+        },
+        "2": {
+          "asset_key": "char_416_f2",
+          "original_ref": "sp/416_2.webp"
+        }
+      }
+    },
+    "417": {
+      "element": "earth",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_417_f0",
+          "original_ref": "sp/417_0.webp"
+        },
+        "1": {
+          "asset_key": "char_417_f1",
+          "original_ref": "sp/417_1.webp"
+        },
+        "2": {
+          "asset_key": "char_417_f2",
+          "original_ref": "sp/417_2.webp"
+        }
+      }
+    },
+    "418": {
+      "element": "earth",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_418_f0",
+          "original_ref": "sp/418_0.webp"
+        },
+        "1": {
+          "asset_key": "char_418_f1",
+          "original_ref": "sp/418_1.webp"
+        },
+        "2": {
+          "asset_key": "char_418_f2",
+          "original_ref": "sp/418_2.webp"
+        }
+      }
+    },
+    "419": {
+      "element": "earth",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_419_f0",
+          "original_ref": "sp/419_0.webp"
+        },
+        "1": {
+          "asset_key": "char_419_f1",
+          "original_ref": "sp/419_1.webp"
+        },
+        "2": {
+          "asset_key": "char_419_f2",
+          "original_ref": "sp/419_2.webp"
+        }
+      }
+    },
+    "420": {
+      "element": "fire",
+      "rarity": "SSR",
+      "forms": {
+        "0": {
+          "asset_key": "char_420_f0",
+          "original_ref": "sp/420_0.webp"
+        },
+        "1": {
+          "asset_key": "char_420_f1",
+          "original_ref": "sp/420_1.webp"
+        },
+        "2": {
+          "asset_key": "char_420_f2",
+          "original_ref": "sp/420_2.webp"
+        }
+      }
+    },
+    "421": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_421_f0",
+          "original_ref": "sp/421_0.webp"
+        },
+        "1": {
+          "asset_key": "char_421_f1",
+          "original_ref": "sp/421_1.webp"
+        },
+        "2": {
+          "asset_key": "char_421_f2",
+          "original_ref": "sp/421_2.webp"
+        }
+      }
+    },
+    "422": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_422_f0",
+          "original_ref": "sp/422_0.webp"
+        },
+        "1": {
+          "asset_key": "char_422_f1",
+          "original_ref": "sp/422_1.webp"
+        }
+      }
+    },
+    "423": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_423_f0",
+          "original_ref": "sp/423_0.webp"
+        },
+        "1": {
+          "asset_key": "char_423_f1",
+          "original_ref": "sp/423_1.webp"
+        },
+        "2": {
+          "asset_key": "char_423_f2",
+          "original_ref": "sp/423_2.webp"
+        }
+      }
+    },
+    "424": {
+      "element": "earth",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_424_f0",
+          "original_ref": "sp/424_0.webp"
+        },
+        "1": {
+          "asset_key": "char_424_f1",
+          "original_ref": "sp/424_1.webp"
+        },
+        "2": {
+          "asset_key": "char_424_f2",
+          "original_ref": "sp/424_2.webp"
+        }
+      }
+    },
+    "425": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_425_f0",
+          "original_ref": "sp/425_0.webp"
+        },
+        "1": {
+          "asset_key": "char_425_f1",
+          "original_ref": "sp/425_1.webp"
+        }
+      }
+    },
+    "426": {
+      "element": "fire",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_426_f0",
+          "original_ref": "sp/426_0.webp"
+        }
+      }
+    },
+    "427": {
+      "element": "wind",
+      "rarity": "N",
+      "forms": {
+        "0": {
+          "asset_key": "char_427_f0",
+          "original_ref": "sp/427_0.webp"
+        }
+      }
+    },
+    "428": {
+      "element": "earth",
+      "rarity": "R",
+      "forms": {
+        "0": {
+          "asset_key": "char_428_f0",
+          "original_ref": "sp/428_0.webp"
+        },
+        "1": {
+          "asset_key": "char_428_f1",
+          "original_ref": "sp/428_1.webp"
+        },
+        "2": {
+          "asset_key": "char_428_f2",
+          "original_ref": "sp/428_2.webp"
+        }
+      }
+    }
+  },
+  "skills": {
+    "1": {
+      "asset_key": "skill_001",
+      "element": "water",
+      "category": "ATTACK",
+      "original_ref": "sk/676e39a73a484d9d5216.webp"
+    },
+    "2": {
+      "asset_key": "skill_002",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/c5351a971ace65d0211d.webp"
+    },
+    "3": {
+      "asset_key": "skill_003",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/07c4ac81404b02ac5d9b.webp"
+    },
+    "4": {
+      "asset_key": "skill_004",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/f14094166e1463b3714a.webp"
+    },
+    "5": {
+      "asset_key": "skill_005",
+      "element": "earth",
+      "category": "SUPPORT",
+      "original_ref": "sk/205b352ec02abe05e42d.webp"
+    },
+    "6": {
+      "asset_key": "skill_006",
+      "element": "earth",
+      "category": "SUPPORT",
+      "original_ref": "sk/8b8c37c89f2686e5b262.webp"
+    },
+    "7": {
+      "asset_key": "skill_007",
+      "element": "earth",
+      "category": "SUPPORT",
+      "original_ref": "sk/884ec8df916abaeb39e5.webp"
+    },
+    "8": {
+      "asset_key": "skill_008",
+      "element": "water",
+      "category": "SUPPORT",
+      "original_ref": "sk/1a5c6aa583d0d884d731.webp"
+    },
+    "9": {
+      "asset_key": "skill_009",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/a386d0eeda2a0c29fdf9.webp"
+    },
+    "10": {
+      "asset_key": "skill_010",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/67d2792ccd52e5d12911.webp"
+    },
+    "11": {
+      "asset_key": "skill_011",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/30ec3955ca87fead52bb.webp"
+    },
+    "12": {
+      "asset_key": "skill_012",
+      "element": "water",
+      "category": "ATTACK",
+      "original_ref": "sk/c0807992905af88e9353.webp"
+    },
+    "13": {
+      "asset_key": "skill_013",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/5605ce46656113fbed4c.webp"
+    },
+    "14": {
+      "asset_key": "skill_014",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/064e1cc5f7d8a40ee66f.webp"
+    },
+    "15": {
+      "asset_key": "skill_015",
+      "element": "none",
+      "category": "UNKNOWN",
+      "original_ref": "sk/064e1cc5f7d8a40ee66f.webp"
+    },
+    "16": {
+      "asset_key": "skill_016",
+      "element": "wind",
+      "category": "ATTACK",
+      "original_ref": "sk/93007f2ac49906cbeb0d.webp"
+    },
+    "17": {
+      "asset_key": "skill_017",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/4404d8a064651b25319b.webp"
+    },
+    "18": {
+      "asset_key": "skill_018",
+      "element": "water",
+      "category": "SUPPORT",
+      "original_ref": "sk/b9b8cf2fbbf4e01c493d.webp"
+    },
+    "19": {
+      "asset_key": "skill_019",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/7da6af2f7b25dcadca53.webp"
+    },
+    "20": {
+      "asset_key": "skill_020",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/37884565d1f88a0f5297.webp"
+    },
+    "21": {
+      "asset_key": "skill_021",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/9e968c1b05f94836efe0.webp"
+    },
+    "22": {
+      "asset_key": "skill_022",
+      "element": "water",
+      "category": "ATTACK",
+      "original_ref": "sk/5565861bc438b9469cda.webp"
+    },
+    "23": {
+      "asset_key": "skill_023",
+      "element": "earth",
+      "category": "SUPPORT",
+      "original_ref": "sk/2c4f3603ee133b8617ad.webp"
+    },
+    "24": {
+      "asset_key": "skill_024",
+      "element": "psy",
+      "category": "ATTACK",
+      "original_ref": "sk/3233fa2fff02225137f9.webp"
+    },
+    "25": {
+      "asset_key": "skill_025",
+      "element": "fire",
+      "category": "SUPPORT",
+      "original_ref": "sk/f79f433889b0d7004608.webp"
+    },
+    "26": {
+      "asset_key": "skill_026",
+      "element": "water",
+      "category": "SUPPORT",
+      "original_ref": "sk/de96db41bfc0850494ba.webp"
+    },
+    "27": {
+      "asset_key": "skill_027",
+      "element": "earth",
+      "category": "DISRUPT",
+      "original_ref": "sk/0a0a09a09053f3ab4dee.webp"
+    },
+    "28": {
+      "asset_key": "skill_028",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/5b0d321e98fbbc6d54c2.webp"
+    },
+    "29": {
+      "asset_key": "skill_029",
+      "element": "none",
+      "category": "UNKNOWN",
+      "original_ref": "sk/193b9c6c6d292362e496.webp"
+    },
+    "30": {
+      "asset_key": "skill_030",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/c08a4e03b67f3e14988b.webp"
+    },
+    "31": {
+      "asset_key": "skill_031",
+      "element": "water",
+      "category": "ATTACK",
+      "original_ref": "sk/90c325611cd51d3b15b4.webp"
+    },
+    "32": {
+      "asset_key": "skill_032",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/2b482fa2adb75cf02222.webp"
+    },
+    "33": {
+      "asset_key": "skill_033",
+      "element": "wind",
+      "category": "SUPPORT",
+      "original_ref": "sk/5e54740ed10dc0420cdb.webp"
+    },
+    "34": {
+      "asset_key": "skill_034",
+      "element": "earth",
+      "category": "DISRUPT",
+      "original_ref": "sk/3af77155033cf4ec5167.webp"
+    },
+    "35": {
+      "asset_key": "skill_035",
+      "element": "none",
+      "category": "UNKNOWN",
+      "original_ref": "sk/cd855c4018049b10ea9b.webp"
+    },
+    "36": {
+      "asset_key": "skill_036",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/b0d353e6fd3e0a962519.webp"
+    },
+    "37": {
+      "asset_key": "skill_037",
+      "element": "fire",
+      "category": "SUPPORT",
+      "original_ref": "sk/fdf47817e90c327883ed.webp"
+    },
+    "38": {
+      "asset_key": "skill_038",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/5d1f25facbcb66c7c580.webp"
+    },
+    "39": {
+      "asset_key": "skill_039",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/2f51a3f92d98ef64b1b8.webp"
+    },
+    "40": {
+      "asset_key": "skill_040",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/b6b64802fbcc81bcfb65.webp"
+    },
+    "41": {
+      "asset_key": "skill_041",
+      "element": "none",
+      "category": "UNKNOWN",
+      "original_ref": "sk/3e9652b4db59b8306621.webp"
+    },
+    "42": {
+      "asset_key": "skill_042",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/547924e9f6be38388275.webp"
+    },
+    "43": {
+      "asset_key": "skill_043",
+      "element": "psy",
+      "category": "ATTACK",
+      "original_ref": "sk/1af577c19f4bd876d5d1.webp"
+    },
+    "44": {
+      "asset_key": "skill_044",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/a9526678c6356edb859a.webp"
+    },
+    "45": {
+      "asset_key": "skill_045",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/1548d9eac8ac5e3a6351.webp"
+    },
+    "46": {
+      "asset_key": "skill_046",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/29c0ec5552b39350f721.webp"
+    },
+    "47": {
+      "asset_key": "skill_047",
+      "element": "water",
+      "category": "ATTACK",
+      "original_ref": "sk/d35b4638eeb5b4acbfc7.webp"
+    },
+    "48": {
+      "asset_key": "skill_048",
+      "element": "water",
+      "category": "ATTACK",
+      "original_ref": "sk/a36b59c63f8175549ece.webp"
+    },
+    "49": {
+      "asset_key": "skill_049",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/985c9ecb07831b2e3cb1.webp"
+    },
+    "50": {
+      "asset_key": "skill_050",
+      "element": "water",
+      "category": "DISRUPT",
+      "original_ref": "sk/2588eb9008549ee07b78.webp"
+    },
+    "51": {
+      "asset_key": "skill_051",
+      "element": "none",
+      "category": "DISRUPT",
+      "original_ref": "sk/35cf54a768202e949501.webp"
+    },
+    "52": {
+      "asset_key": "skill_052",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/96e268b44ec0724ed9b3.webp"
+    },
+    "53": {
+      "asset_key": "skill_053",
+      "element": "psy",
+      "category": "DISRUPT",
+      "original_ref": "sk/d6fabeb7aa7f43fc2ca5.webp"
+    },
+    "54": {
+      "asset_key": "skill_054",
+      "element": "earth",
+      "category": "DISRUPT",
+      "original_ref": "sk/3a09bd2f015b1ad77028.webp"
+    },
+    "55": {
+      "asset_key": "skill_055",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/0c42ebf483d06acd106e.webp"
+    },
+    "56": {
+      "asset_key": "skill_056",
+      "element": "wind",
+      "category": "SUPPORT",
+      "original_ref": "sk/b2b3154b4b1421d24650.webp"
+    },
+    "57": {
+      "asset_key": "skill_057",
+      "element": "wind",
+      "category": "ATTACK",
+      "original_ref": "sk/eb81bee2b8d08084b2b8.webp"
+    },
+    "58": {
+      "asset_key": "skill_058",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/a246bb5470bfb5554a35.webp"
+    },
+    "59": {
+      "asset_key": "skill_059",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/2997d3867bbc9eec7cb9.webp"
+    },
+    "60": {
+      "asset_key": "skill_060",
+      "element": "water",
+      "category": "SUPPORT",
+      "original_ref": "sk/b26077ee55f636d58ff6.webp"
+    },
+    "61": {
+      "asset_key": "skill_061",
+      "element": "wind",
+      "category": "ATTACK",
+      "original_ref": "sk/5dda576863ee24ef062c.webp"
+    },
+    "62": {
+      "asset_key": "skill_062",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/b7b16ac16dd4b4927e94.webp"
+    },
+    "63": {
+      "asset_key": "skill_063",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/0cba0c6f659163f8dc05.webp"
+    },
+    "64": {
+      "asset_key": "skill_064",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/b4f8e4086650455327f4.webp"
+    },
+    "65": {
+      "asset_key": "skill_065",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/e23304703d1be94c4384.webp"
+    },
+    "66": {
+      "asset_key": "skill_066",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/6d516392688dee07e706.webp"
+    },
+    "67": {
+      "asset_key": "skill_067",
+      "element": "wind",
+      "category": "DISRUPT",
+      "original_ref": "sk/2ca474b7c0a7bf86ee9d.webp"
+    },
+    "68": {
+      "asset_key": "skill_068",
+      "element": "wind",
+      "category": "ATTACK",
+      "original_ref": "sk/1396d632db2d1cbe1310.webp"
+    },
+    "69": {
+      "asset_key": "skill_069",
+      "element": "water",
+      "category": "SUPPORT",
+      "original_ref": "sk/db827f521acec73d4d72.webp"
+    },
+    "70": {
+      "asset_key": "skill_070",
+      "element": "earth",
+      "category": "SUPPORT",
+      "original_ref": "sk/8d95b5f7c45467a7341c.webp"
+    },
+    "71": {
+      "asset_key": "skill_071",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/cb0d17f0c89ed335663f.webp"
+    },
+    "72": {
+      "asset_key": "skill_072",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/548f7d06d32e45993b25.webp"
+    },
+    "73": {
+      "asset_key": "skill_073",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/4befbbd60050222aabdd.webp"
+    },
+    "74": {
+      "asset_key": "skill_074",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/f3d926bf52e20262a002.webp"
+    },
+    "75": {
+      "asset_key": "skill_075",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/cc49c56badc36dc4bde5.webp"
+    },
+    "76": {
+      "asset_key": "skill_076",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/a52cbad27d25b53f4bb0.webp"
+    },
+    "77": {
+      "asset_key": "skill_077",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/bea56adf9979367f1cfb.webp"
+    },
+    "78": {
+      "asset_key": "skill_078",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/775d720d708efa0ccc89.webp"
+    },
+    "79": {
+      "asset_key": "skill_079",
+      "element": "none",
+      "category": "UNKNOWN",
+      "original_ref": "sk/8dd151d60e9f3ceb32d2.webp"
+    },
+    "80": {
+      "asset_key": "skill_080",
+      "element": "water",
+      "category": "SUPPORT",
+      "original_ref": "sk/40d7182edcba1c845124.webp"
+    },
+    "81": {
+      "asset_key": "skill_081",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/09f5bc51643f674fd1ac.webp"
+    },
+    "82": {
+      "asset_key": "skill_082",
+      "element": "psy",
+      "category": "ATTACK",
+      "original_ref": "sk/c79ff4ad315c9bc6d938.webp"
+    },
+    "83": {
+      "asset_key": "skill_083",
+      "element": "wind",
+      "category": "ATTACK",
+      "original_ref": "sk/54ca6f5fb1136f0d95ab.webp"
+    },
+    "84": {
+      "asset_key": "skill_084",
+      "element": "wind",
+      "category": "ATTACK",
+      "original_ref": "sk/5513fceb90548ccab60a.webp"
+    },
+    "85": {
+      "asset_key": "skill_085",
+      "element": "wind",
+      "category": "ATTACK",
+      "original_ref": "sk/9b3afa59f5212a63f90c.webp"
+    },
+    "86": {
+      "asset_key": "skill_086",
+      "element": "none",
+      "category": "SUPPORT",
+      "original_ref": "sk/903fc3aaab95a2eebb19.webp"
+    },
+    "87": {
+      "asset_key": "skill_087",
+      "element": "wind",
+      "category": "ATTACK",
+      "original_ref": "sk/935e772127eacbe997cf.webp"
+    },
+    "88": {
+      "asset_key": "skill_088",
+      "element": "wind",
+      "category": "ATTACK",
+      "original_ref": "sk/2182429a40de91f9bcac.webp"
+    },
+    "89": {
+      "asset_key": "skill_089",
+      "element": "wind",
+      "category": "SUPPORT",
+      "original_ref": "sk/9d644d19eab7eec35ccd.webp"
+    },
+    "90": {
+      "asset_key": "skill_090",
+      "element": "water",
+      "category": "SUPPORT",
+      "original_ref": "sk/5e80c53cec2f3e27860d.webp"
+    },
+    "91": {
+      "asset_key": "skill_091",
+      "element": "water",
+      "category": "ATTACK",
+      "original_ref": "sk/32450a33c0b892c15045.webp"
+    },
+    "92": {
+      "asset_key": "skill_092",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/8fac378beb2c4aaf8c39.webp"
+    },
+    "93": {
+      "asset_key": "skill_093",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/df6cda528bedcf06b51d.webp"
+    },
+    "94": {
+      "asset_key": "skill_094",
+      "element": "wind",
+      "category": "ATTACK",
+      "original_ref": "sk/c19f71cbf2bb1ad5814c.webp"
+    },
+    "95": {
+      "asset_key": "skill_095",
+      "element": "water",
+      "category": "SUPPORT",
+      "original_ref": "sk/4e1549b7936dfd01a326.webp"
+    },
+    "96": {
+      "asset_key": "skill_096",
+      "element": "wind",
+      "category": "SUPPORT",
+      "original_ref": "sk/68b22357e8ac21f44910.webp"
+    },
+    "97": {
+      "asset_key": "skill_097",
+      "element": "water",
+      "category": "SUPPORT",
+      "original_ref": "sk/af6f482d40888c6a0fb4.webp"
+    },
+    "98": {
+      "asset_key": "skill_098",
+      "element": "wind",
+      "category": "SUPPORT",
+      "original_ref": "sk/69d6f68cbab10f1dd537.webp"
+    },
+    "99": {
+      "asset_key": "skill_099",
+      "element": "water",
+      "category": "ATTACK",
+      "original_ref": "sk/c7affd6f63202bebfabe.webp"
+    },
+    "100": {
+      "asset_key": "skill_100",
+      "element": "psy",
+      "category": "ATTACK",
+      "original_ref": "sk/3b03269ab0d17c101286.webp"
+    },
+    "101": {
+      "asset_key": "skill_101",
+      "element": "wind",
+      "category": "SUPPORT",
+      "original_ref": "sk/8e9480a0bcc9d92b1dd9.webp"
+    },
+    "102": {
+      "asset_key": "skill_102",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/e264637c57e847f92851.webp"
+    },
+    "103": {
+      "asset_key": "skill_103",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/bf5c50637f4484f796ca.webp"
+    },
+    "104": {
+      "asset_key": "skill_104",
+      "element": "fire",
+      "category": "SUPPORT",
+      "original_ref": "sk/e630c8e222f15f30e759.webp"
+    },
+    "105": {
+      "asset_key": "skill_105",
+      "element": "earth",
+      "category": "DISRUPT",
+      "original_ref": "sk/42ee4339a7e898a1b4ae.webp"
+    },
+    "106": {
+      "asset_key": "skill_106",
+      "element": "earth",
+      "category": "DISRUPT",
+      "original_ref": "sk/971541748c839adde845.webp"
+    },
+    "107": {
+      "asset_key": "skill_107",
+      "element": "water",
+      "category": "SUPPORT",
+      "original_ref": "sk/d5f7bf58fa4d840b8f96.webp"
+    },
+    "108": {
+      "asset_key": "skill_108",
+      "element": "water",
+      "category": "SUPPORT",
+      "original_ref": "sk/98c729694dd170d752ee.webp"
+    },
+    "109": {
+      "asset_key": "skill_109",
+      "element": "water",
+      "category": "ATTACK",
+      "original_ref": "sk/b3616c1a65d6be7acbc9.webp"
+    },
+    "110": {
+      "asset_key": "skill_110",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/d61b7b698ff2667734a7.webp"
+    },
+    "111": {
+      "asset_key": "skill_111",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/48617a0e30ab33c77504.webp"
+    },
+    "112": {
+      "asset_key": "skill_112",
+      "element": "psy",
+      "category": "DISRUPT",
+      "original_ref": "sk/11b8ee0fffaae440c82a.webp"
+    },
+    "113": {
+      "asset_key": "skill_113",
+      "element": "wind",
+      "category": "ATTACK",
+      "original_ref": "sk/677098725b1a866f42f0.webp"
+    },
+    "114": {
+      "asset_key": "skill_114",
+      "element": "water",
+      "category": "SUPPORT",
+      "original_ref": "sk/37a55ead4103f3103082.webp"
+    },
+    "115": {
+      "asset_key": "skill_115",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/4d75bb012530ba2f037c.webp"
+    },
+    "116": {
+      "asset_key": "skill_116",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/30d2804434d56bee83b6.webp"
+    },
+    "117": {
+      "asset_key": "skill_117",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/6f314397b68badfaf386.webp"
+    },
+    "118": {
+      "asset_key": "skill_118",
+      "element": "water",
+      "category": "ATTACK",
+      "original_ref": "sk/5e3a5194fe23ba398515.webp"
+    },
+    "119": {
+      "asset_key": "skill_119",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/3af2d80a23770716e751.webp"
+    },
+    "120": {
+      "asset_key": "skill_120",
+      "element": "wind",
+      "category": "SUPPORT",
+      "original_ref": "sk/8f004b63f34322b7b8e9.webp"
+    },
+    "121": {
+      "asset_key": "skill_121",
+      "element": "psy",
+      "category": "DISRUPT",
+      "original_ref": "sk/2c0bd477edfb0f541d66.webp"
+    },
+    "122": {
+      "asset_key": "skill_122",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/2db2128ed2e99c40a9c4.webp"
+    },
+    "123": {
+      "asset_key": "skill_123",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/db6eee5ce6e7c046f8c3.webp"
+    },
+    "124": {
+      "asset_key": "skill_124",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/6c3ebd1f1ab5b4f10140.webp"
+    },
+    "125": {
+      "asset_key": "skill_125",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/1e1e2279102dfb8f3f51.webp"
+    },
+    "126": {
+      "asset_key": "skill_126",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/07ec7a55e50518af708c.webp"
+    },
+    "127": {
+      "asset_key": "skill_127",
+      "element": "wind",
+      "category": "SUPPORT",
+      "original_ref": "sk/10614c2e964a0a15d1fb.webp"
+    },
+    "128": {
+      "asset_key": "skill_128",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/bf2d2af792484c9fe6b9.webp"
+    },
+    "129": {
+      "asset_key": "skill_129",
+      "element": "water",
+      "category": "SUPPORT",
+      "original_ref": "sk/db53390e1960c34f10f3.webp"
+    },
+    "130": {
+      "asset_key": "skill_130",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/a70c0b082044b28406e2.webp"
+    },
+    "131": {
+      "asset_key": "skill_131",
+      "element": "none",
+      "category": "UNKNOWN",
+      "original_ref": "sk/0303617de152fe81d5bf.webp"
+    },
+    "132": {
+      "asset_key": "skill_132",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/e876d886871c0730e3de.webp"
+    },
+    "133": {
+      "asset_key": "skill_133",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/a9028f8103bfb4653d69.webp"
+    },
+    "134": {
+      "asset_key": "skill_134",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/bfce184557dbe30e75e9.webp"
+    },
+    "135": {
+      "asset_key": "skill_135",
+      "element": "none",
+      "category": "SUPPORT",
+      "original_ref": "sk/9a69647e5fe204ae7ded.webp"
+    },
+    "136": {
+      "asset_key": "skill_136",
+      "element": "none",
+      "category": "UNKNOWN",
+      "original_ref": "sk/5cee4500ae941c513e5b.webp"
+    },
+    "137": {
+      "asset_key": "skill_137",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/e5ebc152918904137923.webp"
+    },
+    "138": {
+      "asset_key": "skill_138",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/5c316c6ad3c9e2566189.webp"
+    },
+    "139": {
+      "asset_key": "skill_139",
+      "element": "wind",
+      "category": "ATTACK",
+      "original_ref": "sk/442a6420d6d6cc4c9016.webp"
+    },
+    "140": {
+      "asset_key": "skill_140",
+      "element": "wind",
+      "category": "ATTACK",
+      "original_ref": "sk/fce4e0a9bbfa3f1e490b.webp"
+    },
+    "141": {
+      "asset_key": "skill_141",
+      "element": "wind",
+      "category": "ATTACK",
+      "original_ref": "sk/1e525157a9fb7300b7f1.webp"
+    },
+    "142": {
+      "asset_key": "skill_142",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/a01fcbdd8c771e8853d2.webp"
+    },
+    "143": {
+      "asset_key": "skill_143",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/31c05c3e499f42985277.webp"
+    },
+    "144": {
+      "asset_key": "skill_144",
+      "element": "none",
+      "category": "ATTACK",
+      "original_ref": "sk/f034cf45c9e307d185df.webp"
+    },
+    "145": {
+      "asset_key": "skill_145",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/0e2214aa4de0de6190e2.webp"
+    },
+    "146": {
+      "asset_key": "skill_146",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/5613db38db0896ef75f9.webp"
+    },
+    "147": {
+      "asset_key": "skill_147",
+      "element": "fire",
+      "category": "ATTACK",
+      "original_ref": "sk/d6633b4e85cae84f46a7.webp"
+    },
+    "148": {
+      "asset_key": "skill_148",
+      "element": "wind",
+      "category": "SUPPORT",
+      "original_ref": "sk/675a3ac9c3066c3ca155.webp"
+    },
+    "149": {
+      "asset_key": "skill_149",
+      "element": "earth",
+      "category": "ATTACK",
+      "original_ref": "sk/13c30884250c8cf1af73.webp"
+    }
+  }
+}
